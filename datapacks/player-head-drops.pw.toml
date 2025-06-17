@@ -1,0 +1,13 @@
+name = "Player head drops"
+filename = "player-drop-head-when-killed-by-player.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBOEAJCB/versions/UwMgTqlt/player-drop-head-when-killed-by-player.zip"
+hash-format = "sha512"
+hash = "7153a2ef0e1b4139249982fe31c8c6f2156db9c5ede98d06dc05c4e79b5e502808fbe9c40cf400338367b20f13bf26ff4c4df2d9846c5d34554bbf68ae5a9488"
+
+[update]
+[update.modrinth]
+mod-id = "NBOEAJCB"
+version = "UwMgTqlt"

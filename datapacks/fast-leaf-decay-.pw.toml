@@ -1,0 +1,13 @@
+name = "Fast Leaf decay"
+filename = "fast leaf decay 1.20x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XibOZNZl/versions/aIu6fbdR/fast%20leaf%20decay%201.20x.zip"
+hash-format = "sha512"
+hash = "45029a0c0e197a3c8b9783a11adff61937f384665fed922ecac39f54b5d00f45935d4df129b9db7244aa00ff1a46384bab4669beaf392a8eab725830b6f05b46"
+
+[update]
+[update.modrinth]
+mod-id = "XibOZNZl"
+version = "aIu6fbdR"

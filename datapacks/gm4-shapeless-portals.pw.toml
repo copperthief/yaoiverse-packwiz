@@ -1,0 +1,13 @@
+name = "Shapeless Portals"
+filename = "gm4_shapeless_portals_1_20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eq7hf4YU/versions/8y8HuyAA/gm4_shapeless_portals_1_20.zip"
+hash-format = "sha512"
+hash = "8951afcfa6b0cf746df12b7324ee2aaff85680c1199ae81c3dde2bbe69e5b7800d2464d4e77348af30627c4ee6eead92b86e7c50ded71c89384f40f20c11995f"
+
+[update]
+[update.modrinth]
+mod-id = "eq7hf4YU"
+version = "8y8HuyAA"

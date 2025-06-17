@@ -2797,6 +2797,26 @@ file = "config/villagernames.json5"
 hash = "51a07cd6dcfdcd5df0391df7c927e58af9397a0b9dcb566c4551c9b529cdc38d"
 
 [[files]]
+file = "datapacks/fast-leaf-decay-.pw.toml"
+hash = "78c729478c3d9b3e838822ce534d9b00d62bc14d9d8f24cf9ad956fd20cf426a"
+metafile = true
+
+[[files]]
+file = "datapacks/gm4-shapeless-portals.pw.toml"
+hash = "bc651ddb1fcd159a4a36d3206f3dbb738d65a67c92a757b245bab9e365da88f6"
+metafile = true
+
+[[files]]
+file = "datapacks/player-head-drops.pw.toml"
+hash = "232aaa274e8c670c0c873f1964e7a4847e3ec4a1472fbb68b71740e18f7cce10"
+metafile = true
+
+[[files]]
+file = "mods/advancement-count.pw.toml"
+hash = "b502a1a3010deaecdf4834d4b34879a6553ff02577f819bbb47645526f0020b3"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f2a3d2af3f3ec8ed1bcdd436a76d89ec9655f20809c2274cb1be5392bb3e904e"
 metafile = true
@@ -2954,6 +2974,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
+file = "mods/cauldron-concrete-powder.pw.toml"
+hash = "851c4c6f37dbfef8a10025a76231f95ca25804a696464500bd9da748dd129238"
 metafile = true
 
 [[files]]
@@ -3497,6 +3522,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/no-enderman-grief.pw.toml"
+hash = "0272a323c4c72b52a805d248fefbb77326191333955cd399effbc0373026fc03"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
@@ -3627,6 +3657,11 @@ hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
 metafile = true
 
 [[files]]
+file = "mods/silence-mobs.pw.toml"
+hash = "cfac6cb783d82ab30e4baa5430c66f0352cf7ac6ad45db3e1053f5ae6371c8fb"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
@@ -3699,6 +3734,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "736c973b73d145aac2728acf181a18bd39a4b0126cfead47345d22a72c0898ce"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "b2c30ede9e44a7a477360e7fd0b39f94b210f79eb50281aa509fbd4da863c745"
 metafile = true
 
 [[files]]
