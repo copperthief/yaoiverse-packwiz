@@ -1,0 +1,3757 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-provider-extrusion-1.0.0-BETA+73baaec6c-all.jar"
+hash = "ce931135712d556b1ada5809100ec39380c7554bf99026b09a421841b5d14572"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-provider-image-1.0.0-BETA+73baaec6c-all.jar"
+hash = "8c0ad46804ca7dc56abd2ac652ea1001023d22584c391697ff9d5e7b6055cb59"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-provider-image-v2-1.0.0-BETA+73baaec6c-all.jar"
+hash = "9c6a9e737d14a88591cc6dd7cf546a8e56c585ff7e604078fde08b7c849143c1"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-provider-pipeline-1.0.1-BETA+73baaec6c-all.jar"
+hash = "fae2016c0d5b8ae29955e3bb8834131b795b84567566ee5a52800100098e5ab3"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-provider-pipeline-v2-1.0.0-BETA+73baaec6c-all.jar"
+hash = "f3b4e8a612dfe67078a4b36a56661dfafb214bf73cfdb2763e024e9862ee96f3"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-provider-single-1.0.0-BETA+73baaec6c-all.jar"
+hash = "5bc8dd09610124c8ae72949802e77d356d4f3838d01766f9018a04b4e0335dce"
+
+[[files]]
+file = "config/Terra/addons/Terra-biome-query-api-1.0.0-BETA+73baaec6c-all.jar"
+hash = "4101afe306b06b6daf05dc167dce3acdcd17fcee8c6ca6896c522c39c26adeb9"
+
+[[files]]
+file = "config/Terra/addons/Terra-chunk-generator-noise-3d-1.1.0-BETA+73baaec6c-all.jar"
+hash = "6be7a31240afa5ee804fc7cc42afbb51a7f524a700793f890415b2c8c019bea4"
+
+[[files]]
+file = "config/Terra/addons/Terra-command-addons-1.0.0-BETA+73baaec6c-all.jar"
+hash = "f6745520059bf063598e8b3087cee2f81d9005ea96cea0434e11557266c6e527"
+
+[[files]]
+file = "config/Terra/addons/Terra-command-packs-1.0.0-BETA+73baaec6c-all.jar"
+hash = "10b7002dea747eda451a14455b401b03d05a140979645409b96d36d9ed52ce19"
+
+[[files]]
+file = "config/Terra/addons/Terra-command-profiler-1.0.0-BETA+73baaec6c-all.jar"
+hash = "d7553d1fe7697c74a88569fdd6d4e24586edbf5c1be35a80c8a94269f349c75f"
+
+[[files]]
+file = "config/Terra/addons/Terra-command-structures-1.0.0-BETA+73baaec6c-all.jar"
+hash = "a213ca2873bde1dc00fc4bc6af44b3d523601ad438ad542430051fc18badfb35"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-biome-1.0.0-BETA+73baaec6c-all.jar"
+hash = "742892e76c8d11b7daef17ecffb3d69b8944fe8f1ecdec9a06b0324f85476f2d"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-distributors-1.0.0-BETA+73baaec6c-all.jar"
+hash = "20a18a5aacec5cb50f215c935acc008b4ddcffbed66291c8fcf6acc961ba6171"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-feature-1.0.0-BETA+73baaec6c-all.jar"
+hash = "b4bd2c66a2c714c0702ee154db4840ebb23d74bd125f57ef7f0a699c7425a3b4"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-flora-1.0.0-BETA+73baaec6c-all.jar"
+hash = "279e50c20c12c70ff6561caa0b4941a557efad174c24e550bc5e63df0f173b44"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-locators-1.1.0-BETA+73baaec6c-all.jar"
+hash = "06f7d12a277c3b9d98bb83b847c0966b9579d4a73e07399ec88f470c10f893de"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-noise-function-1.0.0-BETA+73baaec6c-all.jar"
+hash = "0bbc375e9e19f4ad9052535926253350f6e1a23e5c7862fa8f59efff2980d088"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-ore-1.0.0-BETA+73baaec6c-all.jar"
+hash = "221305f0cf6a9f662b2b27c6a38a6ceedacef0d8be09503efe88c1da424ee1ce"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-palette-1.0.0-BETA+73baaec6c-all.jar"
+hash = "afa9ebff7353eaa77af4ff8fe31486029ab9407fe91e8b6fb021b94f63e46e2f"
+
+[[files]]
+file = "config/Terra/addons/Terra-config-structure-1.0.0-BETA+73baaec6c-all.jar"
+hash = "7d132b2c19e07a5386b56bb106e79c1665e82f3000848ff4dd18a5f9b70e4fee"
+
+[[files]]
+file = "config/Terra/addons/Terra-generation-stage-feature-1.1.0-BETA+73baaec6c-all.jar"
+hash = "d853ebceb8bbc3601506bc3f4be60bd5c4042eea669e2aa103f873bdf1cbfd90"
+
+[[files]]
+file = "config/Terra/addons/Terra-generation-stage-structure-1.0.0-BETA+73baaec6c-all.jar"
+hash = "36ac5eb6c5466c96d7cdd739d8105cb7a07f54912889b4bf508fef9d3e7ca8b7"
+
+[[files]]
+file = "config/Terra/addons/Terra-language-yaml-1.0.0-BETA+73baaec6c-all.jar"
+hash = "020408441292310b6b311e91e4a184852cdc3d8c47c32d6741861c20406fb42e"
+
+[[files]]
+file = "config/Terra/addons/Terra-library-image-1.0.0-BETA+73baaec6c-all.jar"
+hash = "5bb43945a8e76dfb187d5d0eaeedc2ef9b80f22651d7fe18f0b9bb89586cc37f"
+
+[[files]]
+file = "config/Terra/addons/Terra-palette-block-shortcut-1.0.0-BETA+73baaec6c-all.jar"
+hash = "e2f421a3eb9d73a734500c50ed1944c84dccac6aafd77ec2e5da3a52128969ed"
+
+[[files]]
+file = "config/Terra/addons/Terra-pipeline-image-1.0.0-BETA+73baaec6c-all.jar"
+hash = "154b6e13cb60dc8e2c18e1d2698675a245c7b8ae135eb697b87e128d238a54d9"
+
+[[files]]
+file = "config/Terra/addons/Terra-structure-block-shortcut-1.0.0-BETA+73baaec6c-all.jar"
+hash = "fa061e92370a280ac8f6ef362968d05480002835f4656b61223e62f1c82251b4"
+
+[[files]]
+file = "config/Terra/addons/Terra-structure-mutator-0.1.0-BETA+73baaec6c-all.jar"
+hash = "25fe87dfc29564b5675637d55ed779151f6a66dbded783986e393a966fd58311"
+
+[[files]]
+file = "config/Terra/addons/Terra-structure-sponge-loader-1.0.0-BETA+73baaec6c-all.jar"
+hash = "a69fe81059e0a15d2dda9da65ec70a0e0df838fecb7e8fdf4c79b26ef0de55e9"
+
+[[files]]
+file = "config/Terra/addons/Terra-structure-terrascript-loader-1.1.0-BETA+73baaec6c-all.jar"
+hash = "f51db86cbd9c75671c73244557ef4b6afc7e9435fc486fa71666da4bec62d2a0"
+
+[[files]]
+file = "config/Terra/addons/Terra-terrascript-function-check-noise-3d-1.0.0-BETA+73baaec6c-all.jar"
+hash = "7bcb10a8bf1e15410befb857da7f34314f7f22f3f3bc91dbc1ab7bab97d8e049"
+
+[[files]]
+file = "config/Terra/addons/Terra-terrascript-function-sampler-1.0.0-BETA+73baaec6c-all.jar"
+hash = "306f73fa300794240f29975c6a54f8a1c0eb2c7cb22b95864f54390c29839243"
+
+[[files]]
+file = "config/Terra/addons/bootstrap/Terra-api-addon-loader-0.1.0-BETA+73baaec6c-all.jar"
+hash = "b18b188e83c8723b8ebbcf4dd9390c16c30126a37046a85ee466f7412d2e553b"
+
+[[files]]
+file = "config/Terra/addons/bootstrap/Terra-manifest-addon-loader-1.0.0-BETA+73baaec6c-all.jar"
+hash = "261f4423d1bef5441959d457d99ec4cff198c57a04a975f75200d9e0b0612838"
+
+[[files]]
+file = "config/Terra/config.yml"
+hash = "f4125011016ee07155de985f83079db9c3cf4892cbbe8ffc576a9e8e9ab441be"
+
+[[files]]
+file = "config/Terra/packs/default.zip"
+hash = "c6b72d1dd790b7668f702cab6465e7356dd444b7644f632b9a95b7cc26f06b69"
+
+[[files]]
+file = "config/Terra/packs/edited/CHANGELOG.md"
+hash = "642665d4ecd1b01da2c35b80497bdb6450306c71043ff828877bcd2cee96ac2c"
+
+[[files]]
+file = "config/Terra/packs/edited/LICENSE"
+hash = "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+
+[[files]]
+file = "config/Terra/packs/edited/README.md"
+hash = "0f03de166f1aaa09ba16c791edf4739b6c8412c9794cf821fdd3ab0b99e80525"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/README.md"
+hash = "7873c8b10f709619679780018f261d2c99118951250b667768cca614160bc06e"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/extrusions/add_cave_biomes.yml"
+hash = "2dd54dd85e1ded6dbd8a55aedbc44258fa4f537d41df62d0f047ae0d73e71b7e"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/extrusions/add_deep_dark.yml"
+hash = "e653aa0e32eb9e2915eabfd2fec389c066b6cad1992592804397b82b402a96a3"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/presets/default.yml"
+hash = "645b81e89994043578c524fa71141077ca09ff948a14eaa201d9e62532904cb4"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/presets/single.yml"
+hash = "feb262523134ac9075c0ef045609a921785e6c08c35919766ef0873da11cb39c"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/sources/basic_continents.yml"
+hash = "ba18b5f9197097319835180956e6f360dfb035965ede58d24605e708464d0bbf"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/sources/land_only.yml"
+hash = "d0c877ef686fae6ff7c67a548c0f596effc89a594c73b2d73826c0e93fc73ac1"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/sources/ocean_only.yml"
+hash = "98e0e740d06977e91b1611ee648b1051e6f64cfa89c75044b10357cdeea6b493"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/add_mushroom_islands.yml"
+hash = "d177395eb96fc156f91dfea80726bd7bd164ddd73889248791dbe450186bc4e1"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/add_rivers.yml"
+hash = "489e36f86aa7c349643c34df0cf0f1b81d85235a69cd25d1a484df65a876dbac"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/add_variants.yml"
+hash = "fc7bdb147303e59e657ef164f47531b0cf72beb457d97556f49e30590876a261"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/add_volcanic_variations.yml"
+hash = "b2757e255f2a6e3d13f98de91214d3e6d08a621f1ef874ddbca19235976b301a"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/add_volcanic_zones.yml"
+hash = "9d2a5433139872e3157a3b8c038f41c3843cc8100aee8476e4d5ef048b24c710"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/distribute_climate_variants.yml"
+hash = "37fcf2a4ad726f0fcbbeb85fbd4f0b9bca05211be7d6f4b455b5489962a2013d"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/distribute_elevation_zones.yml"
+hash = "d30dfc44a841f8d980a315bd63ab0706383ef1635b2b7986dfb755b27e6cbc7d"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/distribute_precipitation_zones.yml"
+hash = "b380485180203d9a2aab6b6a7f23678d56ce819d393b22d3a8853914a2a7c62d"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/distribute_temperature_zones.yml"
+hash = "6c36a22b6c170b0bdeb7150a92c8720d77b6e23d09c70727e3ac87ca59c3380d"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/distribute_temperature_zones_polar.yml"
+hash = "b4c8d897203e26105813aae8aaeaa0621eb290b7e27d3fe1506ad01fe7826430"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/distribute_temperature_zones_tropical.yml"
+hash = "8ec486080d00bc4f5ca373c667a3e0c61b4f27a9ce134458f90478f4aacb5d29"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/expand.yml"
+hash = "5758808b2f921dd1b6c9ff3ae82f1cdc0fe6cdda5d5efcb334fb894172fbe787"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/flatten_coast_randomly.yml"
+hash = "3cec86e5d7319d7c9ce18a47a0b6b2cff68c031341ce002c795c622c44a21413"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/frozen_world/distribute_temperature_zones_polar.yml"
+hash = "1e574f82af205bc6c393e5576a7e921ba96c944b91d98b7dddeccd21da4aca38"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/replace_deep_ocean_border.yml"
+hash = "216d2e0dbb9bb27e3d6a52c3f434fc3a06de3558cbaaec08118fc14b1173c57b"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/river-samplers/default.yml"
+hash = "1e6cdd5aa9f5bc57c294511c76e1411b74683d37d6afc00e16c528958cc62542"
+
+[[files]]
+file = "config/Terra/packs/edited/biome-providers/stages/smooth.yml"
+hash = "985381cfa9fae6d1f31a8e950f7f4288f1ddbefa007b11e6f3f76c297e94820e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/README.md"
+hash = "57d238c40769b42c6b560781fa5850dd7eeb7fc0010725732409bf2a2be42551"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/base.yml"
+hash = "1e9d64ce2cf9a27af198df5c398061bee66f78920872287662affbcf0e7f18ee"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/carving/carving_land.yml"
+hash = "4aa9becff38dbbc19f1c1a1337b5a51bd42ba417dbd8d723200b0089bb38506e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/carving/carving_ocean.yml"
+hash = "5da9a49cbb7b422e2218e581ab72de7ae0d43c975ef9685bc666d210333daa93"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/cave/cave.yml"
+hash = "592012f7058b78478c6edefa5abdf7e3069a96e206a6b9d3c561a326c1dfe26f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/color/color_frozen.yml"
+hash = "c8cc8d1d8794f72d3561ae727dffc50fc3a65988e929856577c300e085740e3d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/color/color_tundra.yml"
+hash = "e646b4a3a747feea86fbacb3601d7fb811096c3be8277291ec6f603b67abfd89"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/color/color_xeric.yml"
+hash = "f3c89ab658e87f6808f076448d363d8d8b1f800f7580f33c1d6bcf1ed0294828"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/features/deposits/deposits_default.yml"
+hash = "8a5a1f71c29b5e989da1d31c05c726a6e28d3087ceb8f1399a002a7166e24bf1"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/features/ores/ores_default.yml"
+hash = "814d17ca042fc6a11e10874fb5cf44c5e9f19e23b8ec66d1795558723c18e09e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/features/river/river_basic.yml"
+hash = "4ab2d22496e25d7c9c6c3a8b41694bc11c2196eada4f5fe7d232c21395fa1e38"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/features/river/river_dripstone.yml"
+hash = "0e59d97b172d516dc7a61fe75bcf86bcb40b1bcee118e6cc375b938bb7220355"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/features/river/river_frozen.yml"
+hash = "ea38a07ac828747b6d98dca9628aa15b8e61724686c8cd9ed7a51de8d5f510d6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/palettes/palette_ocean.yml"
+hash = "b16ca508eb51e6a128f7c77e60ee16691b0fc3a437d303466663f34777dcb2b3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/aquatic/deep-ocean/eq_deep_ocean.yml"
+hash = "f0e91660d7e6d7d5dc31a8e120ba7f9fc035d2628fc80e5fe93d1e7b361e1b98"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/aquatic/deep-ocean/eq_ocean_trench.yml"
+hash = "577f69834997bdc479c2e0e21377c535426bc05835f9155be5a4cdcb06e422cc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/aquatic/ocean/eq_ocean.yml"
+hash = "cdbc58f856795f3ada0cadd41490fefab22fc1756ff50764b3ca6ca05fff04e4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/aquatic/river/eq_river.yml"
+hash = "c1e9b1628acd547fd51c2e6fdfc967db9b83642b7af47e03963a999a93506256"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_cracked_flats.yml"
+hash = "b419e10e6c1a816a5f7af8be483458d607df1209c530532b061c6ffc67313610"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_desert.yml"
+hash = "605a31b8eeaec4c9865500c60c0341bff890af372bdea384d34d2dad6a4055e7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_flat.yml"
+hash = "d7b9141c8d90da1e11389bc84b334065fd00ddb89b12b5f243fbced99f9c6527"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_flat_eroded.yml"
+hash = "822742a08fcff09a284621ba468f974b1b41a6f74cc7fc719272f27c05d31aaa"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_mangrove_swamp.yml"
+hash = "573f91aebfe524311fd4a4bb5fd05bafa436eec85c42082f25182c80acb693d4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_plain.yml"
+hash = "f352a40bb481c0d5fe1291a69fc4f1136205271ddbd6350209f87f3c23da6a84"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_plain_peaks.yml"
+hash = "e226dc9844f6989b9903d576a69dce984b7ee87cc4f5cdb205fc797b4dbbe96c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_ponds.yml"
+hash = "9c1429a18b35aa8c335fe4d6b2105e18a21cc23357ceb32a4849ca396743396c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_swamp.yml"
+hash = "540c0edd8b34afe9544f62cc5f2621ef84cf292828392325425df0eb04b907a7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/flat/eq_warped_wetlands.yml"
+hash = "21140cabcd6d3e9fbbf83c1e70c2b0b2b8da503f0cdb4873e554a1dd7945cb8d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-large/eq_buttes_archipelago.yml"
+hash = "a79cafe1bc6ce6b5abc220b3022758eaee7279eceb384da9f44a7c16c215a376"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-large/eq_hills.yml"
+hash = "2a92affd6779c7ec3c501b2bfb60fd2fa6dc5a1df2a01e9c59902f2650a86434"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-large/eq_spikes.yml"
+hash = "c0a27894e21418fd9110e1c0bc5a114272c6b20ae4984d4eaf8845ee96055366"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_buttes.yml"
+hash = "0277279571caabb291dbe53251dc0cba109058a2ead575c478c95601ede82ea4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_buttes_small.yml"
+hash = "33589c3446f41b060797aa819bc43d2fb33ba64551f92eaf19f05e79a150282c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_buttes_wetlands.yml"
+hash = "9a14f807238f0362b21619221d3cd365da9d602e03d3513b5d27c48409bf71f4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_dunes.yml"
+hash = "5d3e6eab653758ea074090bf6ad5c5bb9b7a0bd4fc425f40b0937ebf81c0e012"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_eroded_buttes.yml"
+hash = "54aa835f6f61fcd3e6e8013e7beff8b7e3916bb489a7b2bb7748507981607a79"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_spikey_dunes.yml"
+hash = "8f9cff79912690978d7d27031c5992055091376a839d25bf37d8936934b47ed6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/hills-small/eq_terraced_hills.yml"
+hash = "444b8b48c2823065aa01b8dbb8535c249b742de5c492330dfb061ab34a6c91d7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_alpha_mountains.yml"
+hash = "10dfd1adb616c19712bf08c724652feded6fb3a2814eeadb9a7eb8305fb72b25"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_alpha_mountains_river.yml"
+hash = "c249e966d0d035144c5a40417a195c52ec57bc6bca338280d55602eff9d89699"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_cerros_de_mavecure.yml"
+hash = "0a28adb4f1a869f49ba5147dfa6ac5a189e279bb2606d2325603338fa65974d8"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_cracked_plateau.yml"
+hash = "c42c299ac2689f26441d41660da24bc425419cf29de5b280aac8efccb0483f1c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_cracked_plateau_river.yml"
+hash = "332984652051e39227d09b71e39aaa7e302b40f3e7f6ae485e3d96f2fe7d199c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_terraced_mountains.yml"
+hash = "d35abc57dd4fb9884b992af911e4885cef5a5f893df9cb7c29bbe7a8947a32ee"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-large/eq_terraced_mountains_river.yml"
+hash = "1e450010c1add4e636cc76c18766135e7c326daec22e35064300369d83a12b17"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_bumpy_mountains.yml"
+hash = "9666bff5cc3501e8c98454bda63591440389db34e7e353577e49c63dce360efb"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_eroded_mountains.yml"
+hash = "7cc48b25865e97cb783503d99b753cf8eca9eb8c2e943a72ad1cae2d8a3c9705"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_eroded_mountains_river.yml"
+hash = "67a49add1bfa4bb084e8e29f7ef683a63ebfebb6588bd0ce5389e24e84cedd30"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_eroded_pillars.yml"
+hash = "37f48ae03873e36f675c3acb1a093ec4f846cb99d54eb4c4eb3c3c5885e19ec7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_eroded_terraced_mountains.yml"
+hash = "f8743aa29b195c75d8e89941ceebfc0c4e6f721093a2e7f3c3107599a100e2a6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_eroded_terraced_mountains_river.yml"
+hash = "34baffc266cc90904f9c1713fb27f0bd032d6b94f96eabbc8c6d39c9eac7932e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_highlands.yml"
+hash = "d5cd18dfb8764ba362c50e8129c5c39e58300884b3745d50a1913e5ca9ba0d9f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_mountains.yml"
+hash = "be715fc3fe8a4c2011f30edcf2e7f7d5d14a75c97e6cfddb9185df35ed330bbe"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_mountains_river.yml"
+hash = "cc48fab6bcaa5a90b5e01e669f00dde32fbd49d9080a8b7f4c892f289a595f88"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_overhangs.yml"
+hash = "55aab069ba4f9ba6ac199e9ab663113c08e56c09ee14a306791fb246ee2ebda4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_sea_arches.yml"
+hash = "6e3b21ac393d21f928b1c297234cd5481739069f88270c6aa86ad25567c41ba1"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/land/mountains-small/eq_sea_caves.yml"
+hash = "ef678e1e9edae222591ee33f79bd92b0dc814cf30b0e64107f8f9b11224f7a59"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/no_terrain_2d.yml"
+hash = "78f61931243505d6bd8fad0d51810ff818c95079f4bfdaf6761bb0fd84d98075"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/volcanic/eq_volcano_base.yml"
+hash = "694c5bc02d11ea045746b1f457c2792d36ba8c91ad223dfb29c34854d9177836"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/volcanic/eq_volcano_base_edge.yml"
+hash = "8ddecf4750f47967a38868f65d9a6066d782987c870fae451cdc9a001c9daed2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/volcanic/eq_volcano_pit.yml"
+hash = "393376ae92b405ab2d7269b613042361258df3a1ac267aec422e2ea626502772"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/volcanic/eq_volcano_pit_caldera.yml"
+hash = "28c1bfc5297f0cd4c874327055d42cd8bb6baad50f824a76bc820288e0c00508"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/volcanic/eq_volcano_pit_edge.yml"
+hash = "7eb82bf478aa703fbdcde0da8ccb1e782412d2992b28eef95efac5decd7ba2f2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/abstract/terrain/volcanic/eq_volcano_pit_edge_low.yml"
+hash = "1c3020c5ae8f63b052756c029b4e22b5b82c743e8bb984879ff6b4eab828bf7d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/deep-ocean/boreal/cold_deep_ocean.yml"
+hash = "e9cbeacdb6a461c3bfb0b29bd3e4c5677a6ea570168766d476b1d74fad29a0dd"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/deep-ocean/polar/frozen_deep_ocean.yml"
+hash = "d70da8ddb792be0db8ed791c804e9e03bc45f76044d77ed489f2860df6b696b3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/deep-ocean/polar/iceberg_ocean.yml"
+hash = "e1f3d42743ff09b730b319339987e8037374428e0ac48301c658f7fc62248c92"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/deep-ocean/subtropical/subtropical_deep_ocean.yml"
+hash = "6c0332c04be413d3c96adf2116700d5d3cd3c5091277a0e690a0a63b37637fbc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/deep-ocean/temperate/deep_ocean.yml"
+hash = "558cafe916410fcb8233a0450fab6cb54b4837f60d478075fff5b070cb19d3d6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/deep-ocean/tropical/tropical_deep_ocean.yml"
+hash = "49e8d7ae408f243adc5fa1f546b652032daf13c044e2d1b6079cf8b6489f50e3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/ocean/boreal/cold_ocean.yml"
+hash = "afb1941ac203e180f47bb0ab9ec0d808a9b4a154e5d88af71778e29094ba53d8"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/ocean/polar/frozen_ocean.yml"
+hash = "b1c0d035f162bc3b8f496104c72d55148bdd9cc29cfc90c8b447129f5aa65394"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/ocean/subtropical/subtropical_ocean.yml"
+hash = "8aa0eedba7ad6b5cb910eb5056cd931af8f362f68fe72e25a1ef5d6cac94ed76"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/ocean/temperate/ocean.yml"
+hash = "086b75c74ac21ee725af16ec4ba6fda8d986305f1517adf35aee87b9226e18d5"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/ocean/tropical/coral_ocean.yml"
+hash = "a244660d9c778db40978e45d89d7c5e5c11b51537597db166305d7437d865a18"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/ocean/tropical/tropical_ocean.yml"
+hash = "85a75ef8a3c17dd7adeaad581d2fd2b8f8f97aa4914d960a60f2cba56b792940"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/river/polar/frozen_marsh.yml"
+hash = "93d258c182c3d617b69fb7dd90622bc7250e45d7142e6c4005616325cd170793"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/river/polar/frozen_river.yml"
+hash = "43d93da80a33d551f25db27a4b2a62e964843f9a1a29c1a1a6fc54faea5c9992"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/river/temperate/marsh.yml"
+hash = "dae878f7c76131a93977c8b460ad4647f4d6476142817d85a6d6cc165c01bbb2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/river/temperate/river.yml"
+hash = "31ec3d5419bbb4df645e5d9467329b9d59635c9e32081ae4e1c4ff851f30674c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/river/tropical/mangrove_swamp.yml"
+hash = "3637019621dd4e951c006947d0e94d3bd9a968bf8c7e4f251bfb7b21c779c719"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/aquatic/river/tropical/swamp.yml"
+hash = "f4e0bedd6cf91406871188e7b41ab385a2be44a92083522f95a601f30dfdbedc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/cave/deep_dark.yml"
+hash = "0f5955dabd9c977f5cf4c9ef6590e6b640ff8f79f612ebc657e8a663ce2a5836"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/cave/dripstone_caves.yml"
+hash = "4648aadd2e1cac133b4552292aa1c6ec887ecf26f5c028d31fedcc0f07aa5891"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/cave/lush_caves.yml"
+hash = "06486afadc99aa278c0e16517fd163d6c71bff41e8685eed5be197dcfd0accc6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/colors.yml"
+hash = "dc12f6cd769c329351b32cb8a03c10f7dfba254ab36a0fa09ec3d37d5ad54665"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/boreal/humid/autumnal_flats.yml"
+hash = "5fea311bfc34b3c75e4a9741cef3e487678b0145de287507ce8c826584be0c64"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/boreal/humid/birch_flats.yml"
+hash = "064c3209e4d14b173ea9f4cf604773007b0aa22793178673d1af189950b428e2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/boreal/semi-humid/taiga_flats.yml"
+hash = "d48ec6e2aeb061cae07bfaeb4d9dbb82ccc639664f08e488009d375f8df77746"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/boreal/semi-humid/yellowstone.yml"
+hash = "ac96addc3afad1bb3e020800328af46df79dad0081a66cfda5b0c1e00042b576"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/polar/coast/frozen_beach.yml"
+hash = "f1c0095e40d928727de271710c7b4c81c5ff2337a80f5aea925f148f081cbe96"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/polar/snowy_meadow.yml"
+hash = "0ab12fae51ba5a71e72d1e967dda23d247cc89b80836e714b8f79888417748ec"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/polar/snowy_plains.yml"
+hash = "c3c05ab034e4d07ab08ceb10bfa2ac8af8c0077e6054258be409da307cafa12c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/polar/tundra_plains.yml"
+hash = "787180e2b64efa437fbb1b3fe33ff1e2b8c17adee4aaf6ee03e700619611ee51"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/subtropical/semi-humid/evergreen_flats.yml"
+hash = "e725ff27fb1e4d9c22f8f60424e39e80f8af20b37193cdd8e41441478f7a5a8f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/subtropical/semi-humid/flowering_flats.yml"
+hash = "bebb06862f582b7bfb8476c594ac65798ded510aaaecffc827c2e608719cbc8e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/arid/oak_savanna.yml"
+hash = "c0d9ed93eb376e80994d8fb37136bf125ce9dcaad9c7b17006475446dd0c1bb7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/coastal/beach.yml"
+hash = "a37f5c3b4dbc4db7f5d662fbfe49e79228c36e85fb1558a44f275c674dd55555"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/coastal/shale_beach.yml"
+hash = "89c96b41922cfd1f1f12570d56c922da99a71aa97e71aab4b129dd83cb82d05d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/coastal/shrub_beach.yml"
+hash = "cc94c6b0cf899d15386df6b87ae1da6eabd7ab420f97773498856e3a07d267bc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/semi-arid/eucalyptus_forest.yml"
+hash = "9b83f6ec6ddd68af46e1ea9bea73049828ec1e43450ebe4d94d4a6188a0df9ff"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/semi-arid/plains.yml"
+hash = "1fd9f5958a9abf31c9c4ab5c456724ed7abef566ce64b08bc81465966ab5b84e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/semi-arid/prairie.yml"
+hash = "b6ab3e131aed09330ffa2c90e7254241dc13c26372a4fa98d88200a1c192e67c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/semi-arid/steppe.yml"
+hash = "6c5e8071386d702833976a9830eec15b77b4fc6eef4dc135774af1429d50f6ce"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/semi-arid/sunflower_plains.yml"
+hash = "cffadcc4d05be650a9566513c87c631935d395f051f69f1ce42bfe3cdad75060"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/temperate/semi-humid/forest_flats.yml"
+hash = "3b7b5361ea2d74c998e776ccbe81a67f7a037b3288cde5699e54a7269ea92ba8"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/arid/desert_flats.yml"
+hash = "be1268c06c752c2b0843ace15a6485fb532ce4f66e908f07476de37a33039ea4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/arid/salt_flats.yml"
+hash = "3f1c2aa723fe7d3dff630418ca742d1ff02094afa8b0b36241959174938912ea"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/arid/xeric_plains.yml"
+hash = "af1025f8b8fc38a3b4d55044ab36182fb8e9f0e4be227a30991df5265541105a"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/coast/palm_beach.yml"
+hash = "49dec566c65d3f9cc9f43ce19f0cdfab3d970de5a6e2fa8f26df7500692a7d7f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/humid/bamboo_jungle_flats.yml"
+hash = "e55057d88b04d8ab004286e87f1a9e38b397f1e1e83259f2442c5d7ce08600f9"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/humid/bamboo_ponds.yml"
+hash = "1625b2e245447238d4ec93d6a860db411ecdd8e170be8267a4edb6dd2e5a4d63"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/humid/jungle_flats.yml"
+hash = "1b83fae7e252366553ac947320c30f4a9d37c67adb7153bd3b3fa98226c090b3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/humid/palm_forest.yml"
+hash = "940c535cc13169e44c6ad97fc6831c577807fce227fb98bec0a98309535bb682"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/semi-arid/chaparral_flats.yml"
+hash = "c8e1e621bb9b1c85c8bc45dd6f9ccfbc836527065c6c003a35cc03ddf28f1f43"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/semi-humid/grass_savanna.yml"
+hash = "7b00d34012d2eca97404c3109d396c5e05173d7e3bee981e7cd7cdf71010c5a2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/flat/tropical/semi-humid/savanna.yml"
+hash = "511e8d6613c6b66d731189cdd1a49f203b6734dcc15a35c1a583216faffbae82"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/boreal/coast/rocky_archipelago.yml"
+hash = "253a1cde28697717b9ed144b989f354227fc77549a60f414310a80cc5a1ee0bc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/boreal/humid/autumnal_forest_hills.yml"
+hash = "393878a0e0f4d3a253e766de728b942e154d26caad7b03743a6c40b61229a0a0"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/boreal/humid/birch_forest_hills.yml"
+hash = "384f50cd948ed02d29a2f1c6c1224b2516f1ee384f7c00b430d1ad41a0ebdc1d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/boreal/humid/flowering_autumnal_forest_hills.yml"
+hash = "abef2a40fab31367c0047272fa9682897ca01fa15182c51c7b223e60ac613145"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/boreal/semi-humid/redwood_forest_hills.yml"
+hash = "032a9b71109f79da7f5e2bcd632810837bdca0f2414a1bbba3dc2af4561cc2bb"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/boreal/semi-humid/taiga_hills.yml"
+hash = "5b8c0f0961f8f29cb882857b5959f749b1dae822e8d8be7c6f66a0d091a094d5"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/polar/coast/frozen_archipelago.yml"
+hash = "f94b569c375ce09c12a071cd10649f41cbb67beab12aa74afff34c6ae5c1c1aa"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/polar/tundra_hills.yml"
+hash = "d359d8697a5eb9a5b77b13164afa9b9a67faebc8e0a4b74010c145a7f62879ee"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/subtropical/arid/xerophytic_forest_hills.yml"
+hash = "71119486188a8010a7d3d61f2d8bab2f31b476210257f8933b7d17f10b3ecee2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/subtropical/humid/rainforest_hills.yml"
+hash = "53edea53c427e486d67bf8716143cd1b4af3d59458ab259bd83aa12c2c53abaf"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/subtropical/semi-arid/moorland.yml"
+hash = "fe73d804c6a036a15dd3724c40ad508a2674e5e26e5bd4ec57dcfec660a7e2c5"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/subtropical/semi-humid/evergreen_forest_hills.yml"
+hash = "dbf237b272622a7ed7022cd2517090204a48a1fd5d596f55533593728d929f58"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/subtropical/semi-humid/flowering_forest_hills.yml"
+hash = "07f2d14b76f7fea817b70c50a9612803631663f3b6563819d313e43255445524"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/temperate/coast/archipelago.yml"
+hash = "e8b5ed52fdea1e2038298c079a091caa64fbbcfe97b7f5001f9814845a488759"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/temperate/semi-arid/shrubland.yml"
+hash = "d07786a9c8aa45280a8eaa2f08f6c27da9176e56faa05d6d8a11ac6a678e205c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/temperate/semi-humid/dark_forest_hills.yml"
+hash = "01ed44ecf3c437f06abe215e88674739b399b8ce946b1739ff1251bf3e4e4e48"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/temperate/semi-humid/forest_hills.yml"
+hash = "ff1f9c5271f106962bad2f1f5a4250447d104f269627185d96735ff56b82c54d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/arid/arid_spikes.yml"
+hash = "d436d277904371d5722ec0f58d2e85fc95b6a23a66a716b8c6341c18dbb8e74b"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/arid/xeric_hills.yml"
+hash = "16658822737c3546c6e0f0c188acf4a28fdee4c6d337333f7abf40b7a91b0a4d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/coast/sandstone_archipelago.yml"
+hash = "df93c207637d4e6c9562bd391a870c80663c30a4b1379cb79b991f2c03869213"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/humid/bamboo_jungle_hills.yml"
+hash = "100d7de4a92deaf895b482bb5f5f277874c228428a1fc3730d44f2b51d6b2028"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/humid/jungle_hills.yml"
+hash = "ae35f2ea8635244b6d622c174dfe4a52312eb3de9f593f57e2a785b7df387393"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/semi-arid/chaparral.yml"
+hash = "b63988b99cd4d167ae4b15b96ff9ff1e7f70570bc5c9360b2259cc4a02029f5e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/semi-humid/grass_savanna_hills.yml"
+hash = "37b676e0c46023dec288d7e603738286fa24b01859796914e939d34434e962c4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-large/tropical/semi-humid/savanna_hills.yml"
+hash = "b12d19d500a2eca46cea2f2919d9811930d99d5088b5494bee53108142be6e52"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/boreal/coast/rocky_wetlands.yml"
+hash = "1828abebdc1898d01029c8e0ac4a8f7a034528196aa975bba62ceb2f298d1735"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/boreal/humid/autumnal_forest.yml"
+hash = "603f70b18eb737bdabddedaff86dd49b0ad219b65636203a777caa530b37e3f5"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/boreal/humid/birch_forest.yml"
+hash = "3a18ab527997dd716899d2fc2604d668d5ce7ff283399302143545efea783656"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/boreal/semi-humid/taiga.yml"
+hash = "1f54d1102c4ceabefed7cefbc332e083155cd85d0f535e2c8f569ca4912ab3f6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/polar/coast/frozen_wetlands.yml"
+hash = "e77c42602d8bc05acb0dd7421af4e043c1d78a84834d1255f56a8c218906aa97"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/polar/ice_spikes.yml"
+hash = "8f4f4fac905050be160e5cd51eced2564fa0f8553520eaf817200e22deb8fb46"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/polar/tundra_midlands.yml"
+hash = "fc8f92ff4f02d9752e01aab15a437c4ec39e34b7ef05da306dd4c93a633110dc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/subtropical/arid/xerophytic_forest.yml"
+hash = "79599bf593a64222ff2a921336b4b0ed9de5efe1ae5fd1af28a23190313f6a8f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/subtropical/humid/rainforest.yml"
+hash = "c1a2c8e62f8e844569667d708fbbcd353a608edb2574fc08861c66f5503f41d1"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/subtropical/semi-humid/evergreen_forest.yml"
+hash = "41f002448827c69dae3a0a8c493ab68ebb0a0fce3afb206a98bb64feee2541ca"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/subtropical/semi-humid/flowering_forest.yml"
+hash = "c2b8f5095c571fca731b53dea7411a9c5589e70143b2ce3990835769f4dae5d6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/temperate/coast/wetlands.yml"
+hash = "25c23d07bba7688cca532141802449bb3fd3ce5009fdcc9682055d1c7a9c21ac"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/temperate/semi-humid/dark_forest.yml"
+hash = "9615f4ffc4971dea78aa6864cdcd9851e093244b8876cd2f1e06d97e455d8d05"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/temperate/semi-humid/forest.yml"
+hash = "d9d09cdd4e0661a34fc79d667b269427cb0bd9d70b4b7bc39a96413672658830"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/temperate/semi-humid/wooded_buttes.yml"
+hash = "72e3c0759082023da604e81e648ae9c0e885289eb713256d01b200595058de8b"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/arid/badlands_buttes.yml"
+hash = "a613c118f642ef1a01e875b48b883299a618e059fd1af5e3352be450915fda08"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/arid/desert.yml"
+hash = "75350e55b8a725660024c83b19f7543b4c498329ec056a300979589113dd6b8c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/arid/desert_spikes.yml"
+hash = "d8b1d5b5ccc02ed338908296c5881a9b30f378e89465bf4c221977855fdb4fb2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/arid/desert_spikes_gold.yml"
+hash = "e9c57cd11854fa6852e3b282abd280ca470aaaee334a9d177d044fa2061e9557"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/arid/eroded_badlands_buttes.yml"
+hash = "b9d03c93dd38d829b40e0ae86038e30fdbe6fb9b80f1efabc51367bb47610eaf"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/arid/rocky_desert.yml"
+hash = "8073c18e083c57c1a052f9c053c523e2d024ad9e5684c667d03e1ce97102024d"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/coast/sandstone_wetlands.yml"
+hash = "0c2540d837de13b1e43fc20064a6a7d2f09cd73d379a2f9fbe7cb005992df09b"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/humid/bamboo_jungle.yml"
+hash = "202d5b5ca23ffd1f837df2dfc3648da8af8514b0c736c00c130d439b46ca2df0"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/humid/jungle.yml"
+hash = "39c9b0ea1ed28068676b727e72f5a2a03309a2ffc07c82a1029c14cd0ebe5737"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/semi-arid/low_chaparral.yml"
+hash = "5860544f23814ceaa92a2fddd56b702a178bbd90e512d30800926ca3d7282495"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/semi-arid/xeric_low_hills.yml"
+hash = "2c4c8c4ded698cd620e8bed0030efb124fa24c8045c935d488da296b57d190bb"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/semi-humid/grass_savanna_low_hills.yml"
+hash = "9c8e37435cb0bf862f08def4c97686b52c62a1339ed1a7c3151e10d20ab751c3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/hills-small/tropical/semi-humid/savanna_low_hills.yml"
+hash = "481f420c0105cfe99294cc0af770cf4638691e5f0341566092e1dfeb9203bf65"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/boreal/coastal/rocky_sea_arches.yml"
+hash = "d0e97f4e673c9a006b28d2629e8919ae00544d1e2f2fb74e75d7722df77bf902"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/boreal/coastal/rocky_sea_caves.yml"
+hash = "ec4b2c9830a664e82cfc4ea5974907a08779521be0aea2b0948f4685675d69a5"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/polar/coastal/snowy_sea_arches.yml"
+hash = "f8e0b9398f0cffe478e747147a06566208e896834f4e57c496054f8b4cd07ed8"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/polar/coastal/snowy_sea_caves.yml"
+hash = "f713f7c16896a7c6c684919502a6ec3776129238daa5649a3e282cd9d22c67de"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/polar/snowy_terraced_mountains.yml"
+hash = "0b32bfc3df678c43638efc2cc84b034022e649479fd001ee8ef22cfe3cb934e2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/polar/snowy_terraced_mountains_river.yml"
+hash = "e7c317cdf6d52a6b99b0cf51a0025e8b78cce0bfda36ea951591750a2612e51f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/subtropical/coastal/lush_sea_caves.yml"
+hash = "57f0fb9fd9fae593bc35303129c4a0028bb9d2257b32eb7a831d6be44652ddb6"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/subtropical/humid/large_monsoon_mountains.yml"
+hash = "1ce78e288e2e75f10310eccbf1ec4e58bad8904a9f625351cf17a880f950e979"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/temperate/coast/temperate_alpha_mountains.yml"
+hash = "a422c78f7c71c3eb559142974b28b38f08346f333b25eb8a197051c934f1d100"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/temperate/coast/temperate_sea_arches.yml"
+hash = "160801354d5392ffe714f02794220cfc153dd14db19619fc0debc8aa20bcf3d9"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/temperate/semi-arid/dry_temperate_mountains.yml"
+hash = "d5585ade0b9f8f4eb9de2d9f10ca137aff7ad0b36d07e8d160ee5d0e1facc7eb"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/temperate/semi-arid/dry_temperate_mountains_river.yml"
+hash = "85a319b7adb944c1cc2933173feb7be8c50be2d24548bc1e34d13960769dc8af"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/temperate/semi-arid/dry_temperate_white_mountains.yml"
+hash = "5b27fe7dd52649be692912c3fa4f8855cf72a18d33ae29fd1f3d50cd32239ac1"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/temperate/semi-arid/dry_temperate_white_mountains_river.yml"
+hash = "c0abcb7d22abf9b213557f5513c90aa5ee9234a878385a2df9f69306ef080440"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/arid/cracked_badlands_plateau.yml"
+hash = "94c893defff647659f1a9e083d5f78e6762ca5ef2df05344002b4d55b791a296"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/coast/terracotta_sea_arches.yml"
+hash = "4d322a723ceb35fd6b537c664badf4b3eef111b3913cc919dbfd2ee1b0e7fcdd"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/coast/terracotta_sea_caves.yml"
+hash = "5fee3fd8e47017a80f8fb06c692f6081cd4ba68188126252ca57c370115f67d3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/humid/bamboo_jungle_mountains.yml"
+hash = "56b5886adce65e46c30cbc700952733658b52f98f03c89c65cb223341ebe284e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/humid/jungle_mountains.yml"
+hash = "899b5a31701dd7008540cfad1b9751d1ae9446c1db1ccadaae8e533d7a36fe38"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/semi-arid/dry_wild_highlands.yml"
+hash = "5ad8a785a7b1c12f80b3dd64757d3ccaa52512b0a41c6a1cbd9131191cec7f10"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/semi-humid/cerros_de_mavecure.yml"
+hash = "1a1d0949bb346a109635342916f19c37fff8462e3f8e238e325f7c507b4422c4"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-large/tropical/semi-humid/wild_highlands.yml"
+hash = "bf039dfb1ba26a55abe790f8ea391d0a9908fe08096931e10f2c64ad67d4f616"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/boreal/mountains.yml"
+hash = "5825f301e56fa5455a1d9ab45232a1cc3746da874d7ebbcc212bc51cc7f681f2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/boreal/mountains_river.yml"
+hash = "70b6891e40217bea75aa9f5c1e518499d92040b2d0b1f293bd2f641a96f6fd34"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/polar/snowy_eroded_terraced_mountains.yml"
+hash = "a1d4d232f7be586d8124da10c1554717f4d2e70efb1f972c396e43807b3be6f2"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/polar/snowy_eroded_terraced_mountains_river.yml"
+hash = "a49cc7c95af3b8a430498c07a7bf53e7ee5be36571bde9be4731ac0a42b4dded"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/polar/snowy_mountains.yml"
+hash = "67d236273a9562017bc5fdabb2f2c54b26763d30a8a103d3a0f84b72afd266f3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/polar/snowy_mountains_river.yml"
+hash = "866558b213eb6439fe15e7bfb3b3b05031ceaf95044a36b31c71dc0a5adbbc0c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/subtropical/arid/arid_highlands.yml"
+hash = "4c9c1cc0de3e3a319159e782f55697dd44a9050f97b40ca7e57704f239dfb921"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/subtropical/arid/dry_rocky_bumpy_mountains.yml"
+hash = "72458012924fbdc71835a17d117e21caec0ab238941fa08a2042b68061c19622"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/subtropical/humid/monsoon_mountains.yml"
+hash = "42b88b6ee06c51b1eac942e1a842d44cbd8bf45407ee962fae4db63d1fa6541a"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/subtropical/semi-arid/rocky_bumpy_mountains.yml"
+hash = "d25d6ce24430f2240c37fc1ce6685eb516d00f9b1c96b7cb0c6adb2ee83e77c9"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/subtropical/semi-humid/evergreen_overhangs.yml"
+hash = "0361e382baf59c4d4d0ab9f21f8ce81741de668ee408e49664c970d031aa7755"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/subtropical/semi-humid/wild_bumpy_mountains.yml"
+hash = "c496cc8e7f4ec4883d9abbfafab584cc358e49c22da31e24e276a2d983f2d835"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/temperate/semi-humid/highlands.yml"
+hash = "2879ded98d478d886bb78e913cd25b85512cd8509068e7c6620203c0bb8fc432"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/temperate/semi-humid/sakura_mountains.yml"
+hash = "688dd9daedf26732d442fef9b53df2b6262006e4e6a64532e2bc7e0af84de1ff"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/temperate/semi-humid/temperate_mountains.yml"
+hash = "693a5f53dbdfeb004a0d9a98db812f49cf07ab522e28cbb2bfe16f52ea956b5b"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/temperate/semi-humid/temperate_mountains_river.yml"
+hash = "75f2b8f3d6feb084b829b6db160af11ffdfd85fa273bcadbd2543dac34fbc7c7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/arid/arid_highlands.yml"
+hash = "81c980405358719bb7b13539ee82a7157e4a145d2a3746cbbb06cd0986fb5776"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/arid/badlands_mountains.yml"
+hash = "a6815432d947b4fa274d69cbd8ac73cb8a108c1343fd14058cc68450992a2f83"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/arid/badlands_mountains_river.yml"
+hash = "fd889c57ba94ac41e1f412f7ff29953e98ea18e356320755d240eb7246b7eac3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/arid/desert_pillars.yml"
+hash = "d56ea068fad61a777aae5245fc2247897805632065a3904d8b37ca05fc5a3e3c"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/arid/xeric_mountains.yml"
+hash = "04f323bd31376cb672696357f27dcdc29de408c2431315f7391645707c988fbf"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/arid/xeric_mountains_river.yml"
+hash = "bea1cd795fa008bb7c8fee8002474c06a369e27542d555047475de16e2007537"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/humid/overgrown_cliffs.yml"
+hash = "a907e7f88307bd7dcbc12d7d5b5fb1bc1287e6ce86a169c3b8ec944334173b2e"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/land/mountains-small/tropical/semi-humid/savanna_overhangs.yml"
+hash = "99e0d8ae03ae11c2934b386b036350283d6611917502d8cebf761e792a4831de"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/mushroom/mushroom_coast.yml"
+hash = "3a0e005ee5ae750029d27a917ac31c3d1ff251df5704eec95cc53e546c9ebe05"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/mushroom/mushroom_fields.yml"
+hash = "c924b3bf08c56c7f8568eda0d6b266733e463e53eda1cc1aafd3b3d2fad191d7"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/mushroom/mushroom_hills.yml"
+hash = "87dffcbd8bbdec54ee4a6ebbfb568152a4e98a07bf8345510998cfa1e664f931"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/mushroom/mushroom_mountains.yml"
+hash = "0192b4b52a1abab0bae142346038dc0b7b2b9ff25dd1e7391e786e19ae2ed391"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/active/active_volcano_base.yml"
+hash = "591d51c01e0c9ef27c2903a78c5fd64af451bebfd0f4cdbb7e3ac2ce57486923"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/active/active_volcano_base_edge.yml"
+hash = "2b7c01f16cedc200580ab1f4221a370053190b675caa28cceae34145fb1be3ed"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/active/active_volcano_pit.yml"
+hash = "2e2c686d0c242df44b5d9e5671797dba8a98c33960d6f4f9765d65ddf075b4bc"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/active/active_volcano_pit_edge.yml"
+hash = "edae84ca8687748e6c0df8ebec5c0d4554fac13bf41704dcd2cee9dfed29df23"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/caldera/caldera_volcano_base.yml"
+hash = "a5cae614e13382b712795d88baf958db3a3abad5eac0a1cff4dcb60e9deea70b"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/caldera/caldera_volcano_base_edge.yml"
+hash = "ac6ecde85896ca45d3cf90a6babdd2f982e13b0a45ea6dbfe894aee72884d82f"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/caldera/caldera_volcano_pit.yml"
+hash = "026b71c491a170949afd7e2e9083ce5fe3f7cd65de721834edf7d8de3c8d79a3"
+
+[[files]]
+file = "config/Terra/packs/edited/biomes/other/volcanic/caldera/caldera_volcano_pit_edge.yml"
+hash = "e33ddfd6f00c20f8506f0978eec8bc852f9a805c56d14f25ff3cd868a4b239a7"
+
+[[files]]
+file = "config/Terra/packs/edited/features/README.md"
+hash = "2e7d15aae41ebeb7241b03f3f4380415f433d1f5d55bd7d2232c93c69b3f3b04"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/boulders.yml"
+hash = "fc9de51ff4f9a0d1db12f2b459cc57103cab92abef4c2d9f829620122d11b772"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/dripstone_caves_boulder_patches.yml"
+hash = "359118e5234117f9e546f3f353d1ceaebd2ddf294187f938ef11256641985386"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/granite_boulders.yml"
+hash = "76939957f86e540ff29481d3b7558f935bc91f157ceaabff6bfdd1570ccedb59"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/mossy_boulders.yml"
+hash = "ece93af067f3e1a38433d6a69af715f569f16d5b1d92c016855d1a64b2a90a65"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/sandstone_boulders.yml"
+hash = "ebd4f6eaaf8cd057184073a45c65b0c692aabf5d7dac3fc594b247a406934ffe"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/small_boulder_patches.yml"
+hash = "77ff90400e7f94518e0529aad30c7e4f30fe8820dc9ca2fd2786b2c494714dd3"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/small_granite_boulder_patches.yml"
+hash = "a01dcd5b2330352fb3f19ebb6e5ed5b4c619b7879fb3af5b1ede7153b57b0793"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/small_mossy_boulder_patches.yml"
+hash = "225e8f52e9d55e1b12170738dac3df7b9674f553e4193a090508f71a786e9cd1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/small_sandstone_boulder_patches.yml"
+hash = "1d749a4dc53014d9ce566b2e00f2b0eb1e095474e5ce776a75429236180c2fee"
+
+[[files]]
+file = "config/Terra/packs/edited/features/boulders/textured_stone_slant.yml"
+hash = "ad31b765ed1cd5df8d9b742bfc479321611c70dce6628f5d57d828b8a992916d"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/andesite_deposits.yml"
+hash = "ecb055ece885b5fd2e13702933d7dccd76473a75b9b9db5e34abd262381fb8fe"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/blue_ice_deposits.yml"
+hash = "1181160d35c045d73b1d2629dc9a9f53bfb83926db63f52e05b71a9e9d501392"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/clay_deposits.yml"
+hash = "23bdd059528e1ece49a365ed543d5276d7fca68115f5150b762c0e090fbf2dbb"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/diorite_deposits.yml"
+hash = "18e7a26b2d60a8f75ebe7d19f3fb0f2e2710ac7b81502cbc91850eae10541529"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/dirt_deposits.yml"
+hash = "9a5e7018dbbcb90790c43a1ad6473c2b5dab0a03d81e0812078838bf58ba3034"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/granite_deposits.yml"
+hash = "2525118b5d414b210b662f9597e673ab9736209401749156899c137026c6e915"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/gravel_deposits.yml"
+hash = "e6d6ac667d4ae87643e41bda942c5dff2595692194cdb1cec0a4276d8748ffcd"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/mountain_river_dripstone_deposits.yml"
+hash = "a710352eeaaf15b68760bc517004abe93f2221ecc0d419482f8cfccdd8e5132e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/powder_snow_deposits.yml"
+hash = "33f5f8980b7a577df62aa3e8a3b914b994acefb2ab888a5fe93a27d8c2597dde"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/tuff_deposits.yml"
+hash = "c20c8d65763d29665e42c6dbb820c8cdab8b81158f4b230313f0dc916ca8d239"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/deposits/underground_magma_block_deposits.yml"
+hash = "73aaca67ff844023ecb0162afb85a7c44c833320611bac55d98b619d904c78e1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/distribution.yml"
+hash = "2fce07cc48be28972f86a53291c9f4742a8483ee86f849d367f0861bf1006450"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/coal_ore.yml"
+hash = "80b6c8aa8fa3110735554ee5c94bccde6cfb5406b0b403100746447707154783"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/coal_ore_uniform.yml"
+hash = "e21ce409eef5ca6da3a507b690008f18fc1a5198f37eccf3d37e9db06344532b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/copper_ore.yml"
+hash = "f1efb1677c4cd376c24c9cda213b9e4991263f24f6b0d7eb4e20a8df9f87bef1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/diamond_ore.yml"
+hash = "6eaf81f055b0f1311b8022447432def79779b17c90eb2d20d6089f10f97efc8c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/emerald_ore.yml"
+hash = "7b0d5248ee4f87bbe9c2773149a005461993230b3f606ba31ab301a8ad0f48d6"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/gold_ore.yml"
+hash = "f3badfd2a57223ea72df8dec2795e960ab0e7efbc75128cb59966a8517312f1e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/gold_ore_uniform.yml"
+hash = "e3bc6b498fd6d20c508f11335c4afda9c527f46475fdda58ccdc24ea5a6fad47"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/iron_ore.yml"
+hash = "1973d40f5dd2ea79a99ff4e4b437feaef5447e2ce48c6d23300e9f9cfa92f644"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/iron_ore_high.yml"
+hash = "e4868352e1cf17943750a9bc6c874ff79f5745c56cf3e94f19d0fe5a4d597fdc"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/iron_ore_uniform.yml"
+hash = "ef9840f5560ccdca174789b11d86f652cbb654280a82364e26aadf644bed19b5"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/lapis_ore.yml"
+hash = "2937beb73249c646fd427ab5b1774ad777e5d35056933ac240bf1f3f42b70291"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/lapis_ore_uniform.yml"
+hash = "be803e4c03f017ec3aa2f106aec84f9a5a2c9718f7c603ccb1f9ccc62705ebfb"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/redstone_ore.yml"
+hash = "3dda1911e25f0387ea3fc37c0f0f73ac5db410ef0077bf602be96490625c7bbb"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/redstone_ore_uniform.yml"
+hash = "6d009264d1cc9a57fbf66c0ee8a98e1f87311a06c0674b85552df7353d45e85f"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/veins/copper_ore_veins.yml"
+hash = "cdcc2ce987e3c72f10bcda1a2c171c26a9154d5cae309dd23c6011584fcbebee"
+
+[[files]]
+file = "config/Terra/packs/edited/features/deposits/ores/veins/iron_ore_veins.yml"
+hash = "3b77a10953eab5ec280d4d590dcb95c6fc7560aaee52f95dc8487f20f1467ff1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/amethyst_geodes.yml"
+hash = "691f783b59a759c73d1f5209e569d61d45d260150a4081032a300f0790a37711"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/ceiling_dripstone_blocks.yml"
+hash = "67ba31499ed16caf2a0b1c47732d080d573e198b70ccc833138a5974ef63fc15"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/ceiling_icicles.yml"
+hash = "90a7980d22c3f3bc0f4a28d670a160a5b3316c12f7e36384d72bcea56870a8d2"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/coastal_water_pools.yml"
+hash = "a5f5ad7a0078017b11592d8b6e000bc0c0f36928f3420a679f9471486128061a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/connect_lava_steps.yml"
+hash = "bb108b372654afb5546b5d3e58ea78ab8b03f37e4641b130f720c460c8e3d76c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/contain_floating_water.yml"
+hash = "628582f2818e27cf14afee415ee2e011837fb94465439cdad13a488f09d69814"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/del_floating_blocks.yml"
+hash = "9d92a64157e438a9ae7470e021ef1d6a205e27e153a0fd4c5d8427547f92b7fd"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/dripstone_cave_pools.yml"
+hash = "ac657bb9dd11464f6f824bb413800c21ea0b18c3372710c21eb2c6bb53ff01ec"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/dripstone_caves_ceiling_pointed_dripstone.yml"
+hash = "01468136ea7b70be527b83d561d488bd6ab5ea99fd7490a45cf211626515f79b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/dripstone_caves_floor_pointed_dripstone.yml"
+hash = "9b1031452fca8140a938eff53605fc7b4704dea2423df0bf9a3ebc6602034d96"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/dripstone_caves_large_ceiling_dripstone.yml"
+hash = "1770d858677b5fcdd4d4885c69641d52f3e49a687caac5ec363fa241632e9d6e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/dripstone_columns.yml"
+hash = "c3710c97020c87d1c9e34c2e225251fbd1682606c031956094671a71cc3b1267"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/ice_coastline.yml"
+hash = "82f59406e217f12d282e93f7f28b99be4fbe5178a441fe598a57bb9eed95eefc"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/icebergs.yml"
+hash = "a4164e0a62b2b655c928894fdaa5a256ddc9e3b12ae31671fd3d7e4f49f14e89"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/lava_floor.yml"
+hash = "8176420265e10aa962e7c9bfb10a0f5350457e7a32f63b0da1d8e1ca3c40113b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/lava_steps.yml"
+hash = "eff5366a41c3a336727a9469724a16a6b7b60be70f98696db54b369e5002dfe9"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/lush_cave_water_pools.yml"
+hash = "08c1c04cda738e3544203648695fb2db027ec153a64da4c93256c1fdf2fffa68"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/mountain_river_pointed_dripstone.yml"
+hash = "010bf4c0c3a6ce8e72857199866d1ef71e3a6dfcf7f0fcbdb37f986b8bac1af7"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/smooth_lava.yml"
+hash = "f47e447dd1e82e8758720edf94f01e90ce3747599ed8947b8c3dc91982b17f5c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/tree_snow.yml"
+hash = "d6ece530e7c8524ada1b2e11bcf304989701d71de3b7b1dbbdd27ff2ed87459c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/misc/underground_lava_columns.yml"
+hash = "856b85fabe7d7049105ae4bd561e685d931029389f64ffb182cb591bb0902817"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/andesite_slabs.yml"
+hash = "42d612931f844b56a886cf46fa9cfabc6e00c2aebc2d7cc9c9103efd515eeddc"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/diorite_slabs.yml"
+hash = "2298ed73d179926a13115e5b3258cfbba126396625584c7815e18a4d3e73af6a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/granite_slabs.yml"
+hash = "2a02f4d3afe3cadddb4fa079d65afc207b9c78f8dd9afe1cd8a853e6a6dabc8e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/iceberg_snow_layers.yml"
+hash = "8edf3b181413fd5f4f3cedb5375e12f580db4f93c6ecf31a60a079910f07458d"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/red_sand_slabs.yml"
+hash = "ffa682e2933e6a0b583c783bdf8613ec2ccbb0ffeffc9c5a8c714487f811a7c1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/sand_slabs.yml"
+hash = "a99f91e0385938946fd4424291c147c09ffea51872797716cd9cd8bea763f011"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/slabs.yml"
+hash = "054b01b909f00abc1793f7c522ec42adba358fa5f61cfc75d2730c6fd9855ded"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/snow_layers.yml"
+hash = "0f890b6ed1684f0bd06b5ab56bbf199f101c4e45b6a740b3096ce5408692a51a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/slabs/stone_slabs.yml"
+hash = "43428050fe8fa0f11373ac534cda3540418272436a295e826623814eeb5641a1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bamboo_patches.yml"
+hash = "785667b137c1c165428e835035aaae7bf480fecf98a35c19ca30ec18fa00c8d6"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/azalea_block.yml"
+hash = "06b6fe72283007f9c00d6f85be34bba7eb55b8e0e8e66226362b10df60439b2e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/dense_subtropical_bushes.yml"
+hash = "10a4bffcfd8b3d42fffbc974c4b75ab200683d030f00a85de0f3281a32d3711d"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/flowering_azalea_block.yml"
+hash = "5452ebf6c02baacf8d19c22b6f3870bc25dff994e621eaa227b47658b57008a0"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/jungle_bushes.yml"
+hash = "7228f44572ea57a02615bb1f5c8d3476ae03793983a51608d2b6c2c59bfee904"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/melon_patches.yml"
+hash = "c34a78b0c99fdc4219aac6c17902363f9ec046d5cdb1c95c18d9abfadb19a388"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/mixed_bushes.yml"
+hash = "4a6416fba88852462024a9738410c41579b371a0b205d0a28263be0cd6628abc"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/oak_bush_patches.yml"
+hash = "65989618c583464c8d9bea429741181305bd86eb59d920e55fe5c1cc5220227e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/oak_bushes.yml"
+hash = "7e0373b94a11f803f6291d0d754b26c34b0edc2454b5cf49382b1d3f85a2e2f4"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/pumpkin_patches.yml"
+hash = "ec4b4ae5c4c99eb2902ab7a10eb65b8d41e3db1841f31f249064b60d4b23d455"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/spruce_bush_patches.yml"
+hash = "6c90ad0de7de20042cafc985c7b59bd148091c0465cc0ce8acf98f22b0a40cb3"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/spruce_bushes.yml"
+hash = "1b20ca9b325396cae5f77de5605eec7d951d20b5ee3dc3a7cf04546b1591f8b0"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/bushes/subtropical_bushes.yml"
+hash = "f243c91f27f80e6f0bba1beee0cc1efb1f1ba78c947bdc53e9674efada4a3e91"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/cactus_sparse.yml"
+hash = "1fb19e6f468558630fe886aa2025ca42ef6838c545c01bd676c6d4fec14e0810"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/cave_glow_lichen.yml"
+hash = "c197ba08fbf765fdcc8e48b1e8beea217d9924a74fb8cf38ea3a5a1c1cc0527a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/cave_spore_blossoms.yml"
+hash = "69bc69ed7e137eed90eddb63276d8da55780863ed6cdd28fcbabfc64e3b808af"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/coral/ball_coral.yml"
+hash = "7cdb9cba56e747aef7e81e1383f341a5ba1933e8deae445734fb3f7f4701f78e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/coral/coral_fans.yml"
+hash = "d0f764902478517414001f20fed96dc4195b1a6d03b8234de8014d6c4e57caa7"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/coral/coral_plants.yml"
+hash = "829ddb356ae9f29aba57de73c02a160069971fd8f196dc96ad2b271c7d41fb47"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/coral/dendriform_coral.yml"
+hash = "6b009151caa68eb8303912cc045b1f47bbc9e0903ead9b1ccbd699e9bb89fe62"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/crops/beetroot_patches.yml"
+hash = "7b4523bb582aded021a81b086ef16af50f2bfd8a8d34b8457633335c24ce6ac3"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/crops/carrot_patches.yml"
+hash = "854db41366d5d980f11c443ae9f3d7795a510145b098f8d31bbaea2e15beef43"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/crops/potato_patches.yml"
+hash = "4afc941f23ed8b0d44a6432b68cc2ccfaf478c9471ae7891d0b0dc32ca6b3368"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/crops/sweet_berry_bush_patches.yml"
+hash = "29a967a6c7bd8108e14b0a65157f3aa45e5ffedb2accd59b79f597e96b2e3760"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/crops/wheat_patches.yml"
+hash = "8fae1be3d41dca35ae0bb7d7d19d7e8e8fa8425af241b176d6bc8cb68da9f17c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/dead_bushes.yml"
+hash = "b3c50288e454112f8eebe8c301c8e9676e063a1e879592ab5b4b0f5f990cc6cf"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/dripleaf/big_dripleaf.yml"
+hash = "e812cf1012b2602032142e2250f873e69f27107d6ac497c0b58cae2824ba4c29"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/dripleaf/big_dripleaf_caves.yml"
+hash = "e06112ea2013cc1d0c4b8858da3dc901252ae9a1184f541648cfe1150c32e873"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/dripleaf/big_dripleaf_ponds.yml"
+hash = "e246e1f9abb2529302f6812f2f7db1be10bc46e7fa041be33c4ffb6f39197fe9"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/dripleaf/small_dripleaf.yml"
+hash = "b0d68e9904da7bfa4f6a20d19abab08f7f4f59b5ed9a17b739e6b5196379894a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/dripleaf/small_dripleaf_caves.yml"
+hash = "5ca8c1d9479cc9e28371a7d9dc3e5f51702f70851612b1c478efa0ab7a75e006"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/ferns.yml"
+hash = "9097d6d4ec71b5e20dea6e9024db32cef6ed610f102454215a57dfbc739b3f0d"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/allium_patch.yml"
+hash = "732456b9f7cb00d50565b87af390f46148882f028bf462bddc7b719e1d6c108c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/azure_bluet_patch.yml"
+hash = "c90e806450f963028bbca6f346df214f59103c6fedf37739fff62f33abc41106"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/blue_orchid_patch.yml"
+hash = "312346dea3175bb7f239d999c5de400e372aef772e01eac0fdb779b602ea91bc"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/cornflower_patch.yml"
+hash = "babd544cbf6d964ef0e414b9407003b4bb36b19a644b55e291cdd1838a38e535"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/dandelion_patch.yml"
+hash = "4f27b31d1298cee10a12644af8fe80cec7465993d10aa081e5e1c168e3127785"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/lilac_patch.yml"
+hash = "89182b83fd8c3e638e4ea0bb46c0dac643c251006e50ad0ee721ece15c5e0c7b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/lily_of_the_valley_patch.yml"
+hash = "6ee060e3bc5664e5c71585a9a50db8b31de8233fc56ae51962886e66a2fe0dd6"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/mixed_flower_cover.yml"
+hash = "b4ebe1dfec9bf9afc341964cb908313ec62f6280423bccb2f73b3a5c2d024661"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/oxeye_daisy_patch.yml"
+hash = "485057b59ce5e539325e311773fef48379520038b5aeac956fea853d74fc063a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/peony_patch.yml"
+hash = "540ed549c99a2874e91141dd5bd4e0b764ac2f94c8edcbc97a80dcf4acef9232"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/pink_petals.yml"
+hash = "2a557b48b1c08f4010278f0a64e2d5ad62b01deb50645ebec51fdeb6a426a72a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/poppy_patch.yml"
+hash = "df733d2daf6bc205b81a68cb334454f59e0d541456bec72c74db35800a6dff53"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/rose_bush_patch.yml"
+hash = "b189878153c84c16fe86d600ad0809a1ec22296daa4503f6f75082bfee2c7c65"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/sunflower_cover.yml"
+hash = "5b500b598465e1ab2b5e54088f85aade367a7a5435710ef17ee9246f0af7c69e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/sunflower_patch.yml"
+hash = "2511df4e21a039314037fa4a478354628f286a88285459cd805627b3ffbd7d1d"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/flowers/white_flower_cover.yml"
+hash = "e1b41557ce9be3d9c4b9525d253b9201e566f836e452db94429844f0671761cd"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/grass.yml"
+hash = "0c31afc99befc44b66021921bb4e5d972cb341aacd72cf09987fdc39e19e962a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/grass_caves.yml"
+hash = "69ab55dd07315b9d6c4c8c6b74b002084544f8a606e482978280f520150e1654"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/grass_sparse.yml"
+hash = "613093ed1fd518fa890a70f8c1f42388e7c5b06818a73a697ecd1b1b02558c07"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/lily_pads.yml"
+hash = "b05bd2b40eeb0e7103f514093a3680c81e21b70cd3c96fe8348644dce7fbcbf2"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/meta.yml"
+hash = "8c8648971f8b5eb155ff338f2107f5b88bd579bec55771506cfc761d3f43a54b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/moss_carpet.yml"
+hash = "10a9e6b34535efb6568e6cb5c252300797308cefcc3351f3bc037d977d2b6800"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/mountain_river_glow_lichen.yml"
+hash = "1528f2ed8c7adaaf9e08bca071b7ef2a244c2bbbf57311198d1655473a1e023c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/sculk/sculk_flora.yml"
+hash = "6c813ee5cdc074d1dd5c5be6e1d0b6801f4fb1cbd8451d4577ca4c0d2d2c71bb"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/sculk/sculk_patches.yml"
+hash = "4674036dd66330a7c31b7ee2f4761029096a6c7ce5adbaa12e96cc3c7fdf5653"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/sculk/sculk_tendril.yml"
+hash = "34b00be05977592dc98dfefb9205bbca3bbcf8af05fb44181cd69155a0a20349"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/sculk/sculk_webs.yml"
+hash = "9982f9d14b8bd46cd68110549858bbc8a7c0e4d3cc605c84a1d458cd9758d4af"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/small_mushrooms.yml"
+hash = "b4d06ef651b86ba778b2035462c97370015e3a982712d89c9f98f63f079277bd"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/sugar_cane.yml"
+hash = "908d753f834527872574fe7d0e4c186930bc380f1e6e358380adea75ac7367a5"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/tall_grass.yml"
+hash = "ee0dd83a9fdeb652260daae8cf048f1d28a3e1eb00a61b11e6acb7a65d8f71c8"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/acacia_trees.yml"
+hash = "3ee7bf7189581aa3f7a38b6f54382490b519036fcab59fb33cec45e7e7138c9c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/birch_trees.yml"
+hash = "4dd95e342d8bf3c8fdeccac4d0ea9fb8585878fe9b1ea79d0bf2ea16f7e520df"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dark_oak_trees.yml"
+hash = "a9872e4fa46c057a7f0a973dc938323725ec415ec5dd2871ec1d5106fe3656e1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dead_swamp_trees.yml"
+hash = "0991ace00975b79d863298a6552867e0a3144a5540649b6ca83bc294a4ce2b9b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dead_trees_sparse.yml"
+hash = "ea6a0dbf3166d70d8002314d5d081b808eabe230f9edf8c23026a1ecd5c6006a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dense_dark_forest_trees.yml"
+hash = "54e78ac1a99c53ef1b9fd1e90a28f63603ca79267fd3231e4b67b25c2dc2d4e0"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dense_palm_trees.yml"
+hash = "14da6f0652b8c7459d054a7a125acc4393bb354195c8c5765032d94b3a4f8f6e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dense_sakura_trees.yml"
+hash = "43142f1c088e29b49b1cb01ee6be6296d6b918b0a745c661cf51042526d9a379"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/dense_temperate_tree_patches.yml"
+hash = "fd29b9740f0c4c813015167b5b2698d3ba4824e5c59c61ae05c39b20775eceb0"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/eucalyptus_trees.yml"
+hash = "9d7bed7234b7aa7a39ee2b43eec0049461102d6dda3b0eb0172be1dd3921b788"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/evergreen_trees.yml"
+hash = "cd864a4dd1212d19f1ffd1536ae0a778a30c23cd9c54f795fae59c8dcb8add9a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/giant_redwoods.yml"
+hash = "8d8ddad93e17b66d85ca9c8d7c6de65de8692e3a42af98ef797d28b0ff699704"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/great_azalea_trees.yml"
+hash = "cfbe14cf6c39287e9505c038287522352b8dd47c40e74466c8b3f0c1f6260c7c"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/ice_spikes.yml"
+hash = "be5eb5f2178036c4e1cfe65d0438bdd9d209af83207d8a1eac0364e3c18e8fb3"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/jungle_trees.yml"
+hash = "84e28b2b459f56e493f747f3d19c46c4f9e4f6eec8b917a4d42f1f816bb52f2e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/large_mushrooms.yml"
+hash = "531cb50a505495de229f02ccb63f73cf00e07e2ca10fc00aeab06300a54c44b8"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/mangrove_trees.yml"
+hash = "b9d2cd0dbe0008fcabc335a5a6e85d9f8cb4e07dcb9b9296218811b85929f2f0"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/mesquite_trees.yml"
+hash = "71dfb255e0cfd5149659771b424f5e0e50715ead3c79f4f70966467a6321153b"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/mixed_trees.yml"
+hash = "985904269ad128c740bcd530416861e27717aa5036d3f7b5ed966a33f952d818"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/mushroom_disk_patches.yml"
+hash = "bac8143b44641090447cbb119f5816cf4724af2323c5a8b507400d6b5dec6bc1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/palm_trees.yml"
+hash = "955eb7e96112482bcf4456412579cac93363546b515ba65e6364b732bf97c61d"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/seasonal_trees.yml"
+hash = "edc67003ff3bdc15140d52d6c1fcdb23c919b366fda3f8c6eca6a1c0df5894d1"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/sparse_acacia_trees.yml"
+hash = "9f8b976bbf50f1c740e1da468259e498129d4858b6b121edf1df8ba04c7af2ce"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/sparse_large_mushrooms.yml"
+hash = "ccb797c48b30dbf0041e34fb721a49e0fe4e360d180c4e02dc050bf8b41f7d5e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/sparse_oak_trees.yml"
+hash = "892ecfd1b74bb4d8e693432c110680af419b767a8e075c5e8a8042cea609673a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/sparse_spruce_trees.yml"
+hash = "b41bbf3d67dce5cb9eb7341a9078e69560150565c4f617cc4ce5d5b52a352e4e"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/sparse_temperate_tree_patches.yml"
+hash = "86b58fd424e1856c74debbd8ee3ca296b6165f138d3330f6fe9cff00a74c1738"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/spruce_tree_patches.yml"
+hash = "39dfeb0960f6fcbbefaf85e3c2ca68ea496292249979ca04e7f16acf347c54f4"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/spruce_trees.yml"
+hash = "ea833b4043432fa0e7ecb653ea6c2cfcba61b6def2a70f830829ae99ebf23f16"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/submerged_dead_trees.yml"
+hash = "550aeddb6001eb7fe3075a1bc5206c09670e35038dc9d96741ac4361a98fc335"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/swamp_trees.yml"
+hash = "3a81a5659f5a8a876d04ca02d67829108db19911072648fae70309c3112bacd2"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/trees/temperate_trees.yml"
+hash = "25495931744baf6a7aab04c2f888482132ab5cb20abe61c620b9a0038b304411"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/underwater/caldera_seagrass.yml"
+hash = "8cfd7771d0ed7cdfe7c881e06b9bd1b25c1cea46fd3f4eb4e4185ad77461447f"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/underwater/kelp.yml"
+hash = "82a343f6937e7575d581ec72b44463f5aa1c986057e8270c123eaf2bd5a97bd2"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/underwater/mangrove_seagrass.yml"
+hash = "42e459d07b512b6918f2b15c520bfb655983b32f9dd06681f5752b80db47457a"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/underwater/seagrass.yml"
+hash = "3246489a31b82fbed4a495235faa5da1f8e180129e24a27293bb3bf6bb488a6f"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/vines/cave_glow_berries.yml"
+hash = "899aef040c3ca7b4c77320860f166b86b9bd89fce43e0a81683504476e401e40"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/vines/crossing_vines.yml"
+hash = "b7999613484f67c22b6e88fbf5b7476c4c1af9e64a21fb8f6366c29ff1fe8923"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/vines/large_ceiling_vines.yml"
+hash = "be1c58757cfaeb3faf0987617309fd8eb490fdb9ebb9db44af527ebe13e08738"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/vines/large_leaf_vines.yml"
+hash = "88db9b65fb77cecb02121f1a227fc28f5666faddf5b8f3f5109c230249250610"
+
+[[files]]
+file = "config/Terra/packs/edited/features/vegetation/vines/large_leaf_vines_underground.yml"
+hash = "f110fa178b8651f1dff929b4f27e268db54e3752a19f2cad43dc1ccf90b587f0"
+
+[[files]]
+file = "config/Terra/packs/edited/math/README.md"
+hash = "aea6ef235c63c02718510c3378e2f8dbaec44bb5e206ccd93ff1ec0227237d53"
+
+[[files]]
+file = "config/Terra/packs/edited/math/functions/lerp.yml"
+hash = "0aadcb7a51b543d05b7728f82c13bfcd664956bb530dc5ace2771a5048cd2e75"
+
+[[files]]
+file = "config/Terra/packs/edited/math/functions/maskSmooth.yml"
+hash = "af046b853e96b21a60612675d4ef7354b0accf90ea7c16b3d59afb25998c11ca"
+
+[[files]]
+file = "config/Terra/packs/edited/math/functions/terrace.yml"
+hash = "d166d53f6de8f69301b9a92adaef49b3e33b638196a971c26c05060f1ba04b33"
+
+[[files]]
+file = "config/Terra/packs/edited/math/samplers/simplex.yml"
+hash = "b8f142f8b1a92d24ca88e5429ee1c5ecf5b313686e5a056dc0ef31f0cc4fc6de"
+
+[[files]]
+file = "config/Terra/packs/edited/meta.yml"
+hash = "53a61804bb08d38a03b985734be655c703b3983f173b9c1871e71c28d69ad59a"
+
+[[files]]
+file = "config/Terra/packs/edited/pack.yml"
+hash = "7fe7df87d0041f729de703358bffffe3876bce45ac6d350815b2b5d31bc3e302"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/README.md"
+hash = "fa176bface780c00a35f1bc01dfb2a8f9c21f42918ddaec5da51ae78359d22d3"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/arid.yml"
+hash = "0b124afbc5742896acfc44a7c593dc9c1a487aef4aef8b7919500aa99f0ab923"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/badlands_strata.yml"
+hash = "47b7613724948ac7c0c962b7522343fcbd0b85bc33461a9a0c348b2311555c9d"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/red_sand.yml"
+hash = "94504fddea5a5d6e05afa648aae5161e8f32b19ca2211df21a0fdda4a3c91c8e"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/salt.yml"
+hash = "fc4509df7cfaf26dc698231e23e1c237ca9743b45ca898464bcdd30719eeb7d1"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/sand.yml"
+hash = "b790e42432a11aa2e56b0ed0f882a6207b1b83ebf9d282e117b88ea506feece0"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/terracotta_slant.yml"
+hash = "6337cf6383373a42fbf4edd0b42d26a98bdea216c55f6555559c17e4a8999c53"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/terracotta_strata.yml"
+hash = "b83e5012c7b370d7d3b30b16a5dd6d1e18175cc30ede102cfde4a885da197227"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/terracotta_strata_gold.yml"
+hash = "55c16e45daef7251996783ebcfe8dccaa77d1637083235a0d4b80df69cbc91fa"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/terracotta_strata_vertical.yml"
+hash = "7667d0930be0db91e019a460d7d3e62d8905f8ad99312a0cd96c89492a59a65e"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/xeric.yml"
+hash = "b07e8357a51c5144e50fc35462b2515215e76a92168af8c344e2c94daadd1211"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/xeric_light_gray_terracotta.yml"
+hash = "ff897c6f89959e54ba1dc8bf0cc8ef697727471c38db51f937e8c8445f083290"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/xeric_sandstone.yml"
+hash = "7d8fe12cf28f7cc617083e39932d25b35e3ba95a363e20eb2d18432a01dc2404"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/xeric_sandstone_half.yml"
+hash = "98339298d6c7cd1a91f1d49dedc0271bf09ff516ae48e8ba3fd9ccdfb5b39f54"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/arid/xeric_white_terracotta_sandstone.yml"
+hash = "e865ec08cc3e9d3f1d37e82bb27d18b4b02b8b724a1d6c5c0ee6ea8a1fbca388"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/beach/muddy_beach.yml"
+hash = "11a662b9a19282df4c9a63bc8d44724a8ebe9f96ae16fc49bd3114997e8db88e"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/beach/sandy_beach.yml"
+hash = "86a839694a44c7cbac88082473c6bd4c01b299c31b48332f52d4fcd6627572b4"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/beach/shale_beach.yml"
+hash = "c7d4ab28fec7248b7c241e0ac18ee96c0be22a093f678dc7d306cdf65b0a22bf"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/beach/shrub_beach.yml"
+hash = "11e7f1c5647f995823d92eb52385c3c45d9de82a2a67e1dafd55dcbda5e8f086"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/cave/dripstone_caves.yml"
+hash = "f1e1554d14d6830071dc23483dd1cf3b63ac392dae7d6dc3814ec05943efbb4b"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/cave/dripstone_caves_deepslate.yml"
+hash = "e6fe9b3902a2544c5869f35393a2565f60d3d4e1f99dd968eb7bf070843e7491"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/cave/lush_caves.yml"
+hash = "42b81969bf93c82645b538feab964d663d008c7239513cfe94e23860cf8f7d0c"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/cave/lush_caves_deepslate.yml"
+hash = "e4b1cb85dd8b187f2902f05c446ef171516114141f6dc3b4dfdbb263836fb8c9"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/dirt/coarse_dirt.yml"
+hash = "ab47a60b3e04f7089f0318f4eb6c909c50df2b970ea383a8fee30f05f3a30dfd"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass.yml"
+hash = "13d3c09831d3850ad04d3c4a275997b69759c21ac057710df2cad63aecfde533"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass_marsh.yml"
+hash = "717463227bf891ec23b4f361f7b283d5c612ded10b65c44b27175ee6a65679e6"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass_mossy.yml"
+hash = "2c98c0da93c672589f8a26d89f3ff22142a00b3ef4e324e5277338915973258f"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass_muddy.yml"
+hash = "ef0bd9a85a65a11fdad40eaf7522166ed3bc6da091a56bcc6f4b859febbe3b30"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass_podzol.yml"
+hash = "88b2d6d7bbc25a491312723dffbf11aff3a2df29297b76cf7e3d51a303dee994"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass_podzol_muddy.yml"
+hash = "d37e5d181cff5efb882cd6a9c546a7846e64a75bc279a7ab934eb8f61a3eb90c"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/grass_variation.yml"
+hash = "85d06a30b495bd78aaa782203d51ab1260b45a6400877bf3627f827020b21d54"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/grass/sandy_grass.yml"
+hash = "f151cb747a64e1610d66fb4078078e6fe54818433b05e9dd4d4a5f35849f1859"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/moss/moss_andesite.yml"
+hash = "8627ed6397f837d63c417bfb23da9f6a4cb378c80f7a53faa9c34f87ccae9bda"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/moss/moss_deepslate.yml"
+hash = "fc04e5e50462ed95273ec1218e90385324daf875f40f4064d1067d1b18a838f5"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/moss/moss_stone.yml"
+hash = "5919d732b2eb114df45bb9b22a8abb8468ffa9abed1240aa5434061c83e5aab1"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/moss/moss_tuff.yml"
+hash = "4e9eee0eba4898ddde10b5c626f0df41802f5e7da1c2e1cc2aaf99444af5dadd"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/mud/mud.yml"
+hash = "d617e184c4c1a6059909f1ef5108faa0383b3e73729a9cf2b45eca573d017f01"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/mud/muddy_grass.yml"
+hash = "cb3caec76d5f0e4a8b4e71bd146c0e2db7ba0d538f76f1d40301f656ee68e4f7"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/mushroom/mycelium.yml"
+hash = "e36f3b0d4d74013f357372b9db1854beee869cc7de583df393f56bf75eef204d"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/snowy/frozen_ocean.yml"
+hash = "165a204084efbed20bb62dffc2476fc9d26a7886a493c8cfec18e32bcf6a30ed"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/snowy/grass_snow_mix.yml"
+hash = "f90386afab8707951a4bdf0c30fe640bedfbad3ef57d19ecb1c274eb4c6956a0"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/snowy/snow.yml"
+hash = "43999aa9797eed55740fd3c9c1b8a2c378c7266bc00b2d75698279c7d327c66a"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/andesite.yml"
+hash = "32538ebf9803db1191270bb8c16f1183f465bf53b7b483305a4a60d9c4eb46ac"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/calcite_diorite_mix.yml"
+hash = "b3733712e745844c8dbe315891e5dc74045663011e02adf180922cc4a27acc5e"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/diorite_slant.yml"
+hash = "25ea7b428bb17a519dc2f96fbfd4056cd51f2f5a36180526c346a2e65ade19da"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/granite_slant.yml"
+hash = "707e952ed1e3f714fd3147bdfba965a5006c282b0e4739cb40dc66244a02dc92"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/gravel.yml"
+hash = "4096268f479539357be78440986e04d6fa67bb2718cbd845ac78309d0e6033cf"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/mossy_cobblestone_stone.yml"
+hash = "a1930da11c2efb1121d9a4caa00bf21f3dd141ed6ae87c2257beb797382eebfe"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/stone/tuff_stone.yml"
+hash = "cfc466c187d81914b1200a4d352d7b386ae98053bc4183cca8851b56c197f25e"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/tropical/bamboo_ponds.yml"
+hash = "85410c1d7e91da70636e1b5ccaac1e5b394a8fb1feddaf089e137aa1901917e4"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/tropical/bamboo_ponds_water.yml"
+hash = "f00fb4e9c8df47398b603515b6140f7bff5315a64227cebfa12b8d52c6c748f3"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/underground/bedrock.yml"
+hash = "cd53ff114501db129afd3a48e3927dbfff5f87139a201bc4d7f7198e99037011"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/underground/deepslate.yml"
+hash = "d32e4fbd34bd9eec14be85bdb63f10e1e0676d94c4e765f5168c04fe1b1e308a"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/volcanic/lava_cracks.yml"
+hash = "dd64805f9a70ba1faa7ba06f7af018147d69ed59006d0ff4e1b9023b3e4ad7a5"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/volcanic/lava_cracks_filled.yml"
+hash = "b5d6adfaf0e643b69eb7c54c2934ce80def42fcd486ca44e496fc7df6342cbcd"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/volcanic/lava_cracks_tuff.yml"
+hash = "f9cfdce49d5adb0c78ad2e057e6a41a1a47197d7d5b7849f51b65e0f5312e213"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/volcanic/lava_obsidian_ocean.yml"
+hash = "bd4e109841af76d5d33a84aa4945bb5aeb49538839cb1f471d4775c7b70c0324"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/volcanic/smooth_basalt_stone.yml"
+hash = "195645d8ac1680214170d8e82887ec5bd2995666c07a8e055c02ac8dd021e85a"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/yellowstone/calcite.yml"
+hash = "88adb35856876da3d09542e3b280821852f5a4dc650809d9b71fc78a54a14da3"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/yellowstone/yellowstone.yml"
+hash = "6ec930fb893414930b85bd81f5bbdf82200707e3d70a024c091c6df262d2e353"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/yellowstone/yellowstone_basalt.yml"
+hash = "c013a7ec2bcc0242f67102afe3603d680f6549f76e021f944855eefefb432cf1"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/yellowstone/yellowstone_red_sand.yml"
+hash = "36f15bbf39cdcc23486c11b35e36cdaaa1d832bf9d8d8437f5624271e5696e94"
+
+[[files]]
+file = "config/Terra/packs/edited/palettes/yellowstone/yellowstone_water.yml"
+hash = "46d9164a683a27f0da0cb32c81785d4f65472712d4ccfff3395c9f27f9e407b9"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/README.md"
+hash = "f634e958de573f4e4d66a7661db64691f567e1a9ef3906d072a806285dba91a2"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/andesite_wall_boulder.tesf"
+hash = "ae60000c0b4620a3bb77341673a2879321d5c7656399196a10f54ee9be1bcab9"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/boulder.tesf"
+hash = "e790c487cb0cdbb48ab9c56cd7eceebe5c9f596ee8980826cd8f9e745c0618eb"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/boulder_ores.tesf"
+hash = "8b044b7bc1143ebfb9a18f567deff3fb91981f040a051d5105dff45a82431ddf"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/boulder_palette.tesf"
+hash = "1829abc74af7645815b38c4615376e517b8d16fc0a46e4aeb58b0a5db638845f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/boulder_textured.tesf"
+hash = "3f50a33a3f3f65f8e7bcc17178d0ff17a4df12a1c29718d60ad3a8b4a973db9f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/dripstone_caves_boulder.tesf"
+hash = "761096ac3f91957afb5db0783911e03438dff87721a088347a35be655d319a13"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/granite_boulder.tesf"
+hash = "1a5911cc1a873e1cabd3fadcc10d5968899a721d572d44d8a2da1ea8073f633f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/granite_boulder_ores.tesf"
+hash = "b00e78d719f0b3b0b62e29ddebef017d3b3b14651cae49d7cd7c76631e13642c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/sandstone_boulder.tesf"
+hash = "e1fd54e58c57148602c2846be7cd7e798790f1bd29d4c038891cff9adce44812"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/sandstone_boulder_palette.tesf"
+hash = "28b11570c1dc7974ba6ee9f34d9c601dbf8c116b637562621f3e9b03479dce9c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/sandstone_boulder_textured.tesf"
+hash = "e39c64aa9f8391d126f94806ebaed82097fc7fe6d55ee3268576c5fe1be77b88"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/small_boulder.tesf"
+hash = "b97c7b05da357a286fd9b55a6c462834e5d89854679b3a63bbf688e8d0974bb4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/small_boulder_textured.tesf"
+hash = "425e9ec977eaf1e0813731059c2b36ee62f12ef2cd03563ddef53b73cca136db"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/small_granite_boulder.tesf"
+hash = "13bbe5043f236b5ba05104354d43c615d026083dfea91c58092c0e14327f0711"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/small_sandstone_boulder.tesf"
+hash = "3aba6a1125fe25158953e2df11fd9e797f4f523de52045787881224b42dc680e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/small_sandstone_boulder_textured.tesf"
+hash = "e717b47c973f283d73e92445a0af3cb3a2557a13624dd4ca1450e1f6d93042ae"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/stone_wall_boulder.tesf"
+hash = "a955c7879471440b4a947bfdf30fe3cacd4f613aa3ffb91c1f0fa0d000704188"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/boulders/tuff_boulder_ores.tesf"
+hash = "655266e3c9af7bb7f12d1b0dbf8fb421dfdbb488f2603f5e2c6c998db5ad5b8f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/abstract_deep_deposit.yml"
+hash = "ea1c53778c25b3f83eb3e37d81e5caa3f1472723ba6d9af1c8a7135686b5150a"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/abstract_deposit.yml"
+hash = "d6d576dbec394aa59354f6e603dd7c12626ce7f8c07aea3e63711272672b07c8"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/andesite_deposit.yml"
+hash = "b005cd1467bd2c271f9fbe588f6d162b76ff78ed6238f2162716f273621fa75a"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/blue_ice_deposit.yml"
+hash = "f98297128a8e43f76875a0cd009214a3768790ecfeab10d9b9735e2d4af1af89"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/clay_deposit.yml"
+hash = "2f395e8ef3adf84092383dfb39471da1638b90a2cbe395439698798e02fba91d"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/diorite_deposit.yml"
+hash = "a2839aacc84fd17613ffee959e528258c7bdea21aac432dea0bf006b66545fe7"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/dirt_deposit.yml"
+hash = "1554f90fa3c7bbcd3f95ff527584d26924951f5dd94766a384cf068433576c04"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/dripstone_deposit.yml"
+hash = "e0fe9de18ed8c8198e9aca2b49e5b1bc8baab0e6c52a6c3ce81a974111e2544e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/granite_deposit.yml"
+hash = "a611401f149f74ab692c93f86030092e4a941ae3c89bf030381f98432401af1b"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/gravel_deposit.yml"
+hash = "f866608ada99a6fc08336841860b3d495641cb773d52e3450f179bac83b6a1e2"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/magma_block_deposit.yml"
+hash = "b2e9b6dbaad645a078d3e728121844561f419677e9fa465c973cf1390714537d"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/powder_snow_deposit.yml"
+hash = "f500c89946065499817add680a95485a754bdda0ba5f28e826e0f448bd313b93"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/deposits/tuff_deposit.yml"
+hash = "ec6befc554bbe5dd565bf5e0b8a0612dda09695bc8f79e1ed74a14e2e438937d"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/abstract_ore.yml"
+hash = "477d23e5fcfe2d057c33ec6710e45aff1e084a1855f6a2cc51340ea34c693792"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/coal_ore.yml"
+hash = "bfb34e6c625944b0b65e28db96eb57c2d0de802309e10bed95dfb3674dfc7774"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/copper_ore.yml"
+hash = "f7c2957ddffc41a78ee1153ba10d945877389ede608701e54ec744be7bde4975"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/copper_ore_large.yml"
+hash = "bde3c537dd4cd2ccb46b27034ee9ded46c9544f45627810d95faaf59c49bcc46"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/diamond_ore.yml"
+hash = "ee1a7e069f5ea63cbd15c9941a13b39669f490db46fe62dd25ffeb05c5c045a1"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/diamond_ore_large.yml"
+hash = "18fa5a1b15dca4ad607bbf35e31c183b3231a99b092a308c5b5faed54918d4b4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/diamond_ore_small.yml"
+hash = "fb42459d1a95230fed88c6c98edc5e20e3a679993c5bbe33d073fc475092c89a"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/emerald_ore.yml"
+hash = "c2515645c7bb4c776bb8773da33a9a8362a269360f1dc1d2f101debe2c5cbed9"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/gold_ore.yml"
+hash = "0d9a28241c672d5ce439b6633919085c3b841c4d99c1398ed2fe5ca19c303b14"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/iron_ore.yml"
+hash = "da56a3d33c7e5de082b5d39dbc48cc85322cae3fbeb105864f45fe3544776249"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/lapis_ore.yml"
+hash = "1e9f044f67667c5b3d6e18f5587d7159ab8b8d3ace6f5e629a31a7c53973abf4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/deposits/ores/redstone_ore.yml"
+hash = "d7b39aea3180537c76c57eae66af8ef0e6b5e9bb635da92737753f174e287015"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/is_leaf.tesf"
+hash = "b26ad5fcd34c6eb06b7695027a058178c21571056a2077ffd2d420eb3be9ea79"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/is_log.tesf"
+hash = "7a2623a24a04f038aabdc8ff84a7cf4902b813216b61506bef137843ee087a53"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/is_rock.tesf"
+hash = "ed6f7db269b1dc3ff9065e73b05a33b1010335dc529002da07b5cb841b24a8db"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/amethyst_geode.tesf"
+hash = "769a0c3c13797959cbdc2fee80d7181f5b9046fce49e61cfff7db8416aa2f341"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/bee_nest.tesf"
+hash = "3682e32f42a548b3cf51ac0b66e77b8e08b488900a5853a251bf896408b4a7f2"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/blank.tesf"
+hash = "b178ca5d15b17e12f6739fd240e9d1ecde041f28a142e48d2fdb585e9e15dade"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/ceiling_icicle.tesf"
+hash = "64168eda5deb123c56a519623596fb00352225a54a6ad323c2191c8bdea619fb"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/del_floating_blocks.tesf"
+hash = "d0307075776f5efad7e1ff40f90196359b42cdc38ce0a6f7e6d8f588fe0148e4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/dripstone_column.tesf"
+hash = "7e11a48d90a3048d9195ce1146d4aeda65cfdbe985906604930ca2a4d0c356a7"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/iceberg.tesf"
+hash = "a6619114f4a6f856c7a75181e69ace93ee1dc54e16baa42229c039f59564b56d"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/is_dripstone_column_replaceable.tesf"
+hash = "7e82201967b6b3d768d6baa69f97e6f14b375f23dd6a4e04866180434b98e29c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/large_ceiling_pointed_dripstone.tesf"
+hash = "095082738389b9b93c442d0b9e93e0cf427ded048a3eb31167471c383cb226c0"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/lava_column.tesf"
+hash = "b708f76e8fcd41c3889e60ce283b981ddce72993eadf1d35b664e6797ab7cdbf"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/place_crystals.tesf"
+hash = "dcec9d851e78815680a81c717d8f66fde0d8ad1c37f92dc5641f7ce7974352e4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/propagule.tesf"
+hash = "34f088b37b18f4c51b858e9a874676aa4690d2a6ea999da9a4506d0effcd772a"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/small_ceiling_pointed_dripstone.tesf"
+hash = "f0398c56cba4acbf9178c3815d0737f96f81f4f46f9b62edaf19baa5a43bf687"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/misc/small_floor_pointed_dripstone.tesf"
+hash = "ebe11460b086a370f3f03898818611fe6af989c5afe58158dd376078a3373c72"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/andesite_slabs.tesf"
+hash = "285d6f3d681f5e04e6ec862f4f369b655bf3d6590b25df952a00818739d864fc"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/diorite_slabs.tesf"
+hash = "9ef9a88a47765d83b0446f7dc87d48fcc65321b7deb2280c7311c8ffbba42fe9"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/granite_slabs.tesf"
+hash = "86ace54d0d9206283aacbd3d8aa5bcc27bfc2b7cdff3c7644240667e15a9ef60"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/iceberg_snow_layers.tesf"
+hash = "0ca3c38049c5f79850cf0869e4e3748071ec9f3e8f865b4ed35ada930314c333"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/red_sand_slabs.tesf"
+hash = "6508f6ef331511831ed9d6c6ad129f0e1ca0f79a9e6caa78f2d908117a118fd4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/sand_slabs.tesf"
+hash = "be07917147e453dce5065e0d34aae25f6158218e6a1ba453b92ed7ef7d092b1f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/snow_layers.tesf"
+hash = "e289c4886f30ce19ef027df8cbb074a9dff178aaf68ec7ace848b16a584e5fc7"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/slabs/stone_slabs.tesf"
+hash = "d70024668228f7e4602e1022ec82360a7d183791d69060d135f9b2e526b31bdf"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/bamboo.tesf"
+hash = "83a96b52266994e25c90b48ebc2a16d234d62a5eea11c07d3fd40e0898201987"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/big_dripleaf.tesf"
+hash = "78d7d5566f773665299bb09a19fd77aa73cc6a19103f331283a222e11a10fa6b"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/bushes/azalea_bush.tesf"
+hash = "0ff3f495fd62d75730d08accbe41d24f7469a970c848a86f528557438ef3b00e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/bushes/jungle_bush.tesf"
+hash = "b52c40f903125abc360f3910a9be18ea88757d2271334f8415d248dbefc25176"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/bushes/oak_bush.tesf"
+hash = "030bdbed2327da440e9432e42faf67d2140e77cec348d3c4913de2c7872b2e86"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/bushes/spruce_bush.tesf"
+hash = "c7d042d2f2abe8ce36a443755aa696595e7d64b2da4c0865e3e480989ce3d7a7"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/cactus.tesf"
+hash = "0328b3afc879056083eb72e865243ad7de47b02e54e2a229bdf4a03cd5c2f8dc"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/coral/ball_coral_procedural.tesf"
+hash = "3b8c3b7ad0d848753eceedb48179912ba6bbb273838f9c3a591427d2bf057184"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/coral/coral_fans.tesf"
+hash = "291e24075c591ace850ba5d840b912a64748bc8ff608e48422bf49c02a2c171c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/coral/coral_plants.tesf"
+hash = "dbcfe24ad4e10f79c2e363cd1300258f7e0d8253472a532a9862b1ecc9a0c2fc"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/coral/dendriform_coral_procedural.tesf"
+hash = "2faaa57ac2db4511907f1420d150bf3444aeeac3d93e87cc44d68248e9d4c62c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/beetroot_patch.tesf"
+hash = "39d85341a5b7b036df1802816ef15f852ca50eebf2fe51b8cadc168e8aa13431"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/carrot_patch.tesf"
+hash = "dc23f8126951fea581a6a6d47e21fe143ac2e8fdc2459c032e59a2d058acced5"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/cocoa_bean.tesf"
+hash = "5ae5efd1f81660c8c0ec67264b2bf7c16cf8e6c1209c3d75e9e461cfeae45eb8"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/melon_patch.tesf"
+hash = "a5ad3bd6b26191c988a8c004eb913afeb2f837e0f9a069a918cbf2309a61e59d"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/potato_patch.tesf"
+hash = "03ee192e46ee2f6079602b6063e3213cb1980f471570a29299d8aae1387d9dc3"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/pumpkin_patch.tesf"
+hash = "1a75d95b0231cd2239671ae979d3a8e539b5f12da6a7d3f79a75330a3ac9f219"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/sweet_berry_bush_patch.tesf"
+hash = "047e2aefe7394d9ae6ab9283926e1d51d03fd3f893e61f804867339f2eb7b637"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/crops/wheat_patch.tesf"
+hash = "716ec4b3f001977e3e94122c2d51c8b94682b4317c486467005e346147544da5"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/flowers/lilac.tesf"
+hash = "3c74b7ffc1361ed0b8f8c8c5d08a85bcc95137302739d37de660c9f5834ca66e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/flowers/peony.tesf"
+hash = "813f9718f40b976f27f218170db122cfa744fe807aa02ec61d5bcf5fe6398579"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/flowers/pink_petals.tesf"
+hash = "7068704309b72318a26e3608d5bc47703a231abc86db18d84bfbcb1c6bde1dd7"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/flowers/rose_bush.tesf"
+hash = "d48ee58583b4b1a8356e57ea899f26a9f9f18ff586867dd255602a8fce12cf7b"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/flowers/sunflower.tesf"
+hash = "e05c1d6e8b8c81af1126b778fd26292019de95cc617937c2781d200d5c31574c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/glow_lichen.tesf"
+hash = "cc33990f1a96b418f40ec1577506403435d7dd9031231f6ff3fb71a14422f579"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/large_fern.tesf"
+hash = "58c42463239e0d5331477e7d03d5e9dfa36de0ff6804658bcc0eaac94421029d"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/mushrooms/brown_mushroom_disk.tesf"
+hash = "22ef58a854bde42dd98d346561aab89a9a469b2e2fd961970eb40abc5f3453be"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/mushrooms/large_mixed_mushroom_procedural.tesf"
+hash = "878146a21a04a03baafcefd10541f67394df7df8c730569e5a6e672512dd16e9"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/mushrooms/red_mushroom_disk.tesf"
+hash = "9c3134390d8137634787b95d27236ac724f6e1e50e7bfc0d4887812b53094e00"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/mushrooms/small_brown_mushroom_disk.tesf"
+hash = "0b82c40ca6092630458434ec6047d9670753a2110824ab87b759bf47ab0e54fe"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/place_adjacent_sculk_veins.tesf"
+hash = "826223539523a13e10dbcce564eeb0aba01fff2038d5aa31bf397dab6ced6f6a"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/plantable.tesf"
+hash = "1510b6c871f972369f781e226ba6ad43413c6540dbf770bda210af89247d0845"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/plantable_desert.tesf"
+hash = "42f788f1b995c720c1eb4a57a0e8bf3c6e209d2ee65b0afa69793c618b59813b"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/sculk_vein.tesf"
+hash = "c395203c579c60bbd206fcce9c1b748c3042fc8feaec2db03476abf97c358b7e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/small_dripleaf.tesf"
+hash = "08480ac7c76c226b9aeb47b9ee1c4bf2f715d7787b9bbdd21bb5480b0e34b28b"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/spore_blossom.tesf"
+hash = "651fb111af1a6754fc8432ca06c8beaad051f7c39f7b6ff13127e1748e30fc0f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/sugar_cane.tesf"
+hash = "0e3ff2e1a64dfd68b391fc9e42428d9b54bc90cb66d1bf903a193f14aecf24f5"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/tall_grass.tesf"
+hash = "d8f975798c48162ff82405aecc431ff14c17be4d5a841a0113b171e36e8d22a1"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/acacia_leaves.tesf"
+hash = "7ea2902532e9f2c02222bd74e58e6669126b1082dc06dcfc30e1aee33e4b4817"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/acacia_leaves_clump.tesf"
+hash = "72cf9c586991121ca9631d9c250c995de1b22d0bb696bd18512e04f1761bab3c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/acacia_tree_procedural.tesf"
+hash = "631864cc8d5c19507c8af1896747adcaa4b8ef40eafb00b91bffa5446552ba56"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/autumnal_birch_tree_procedural.tesf"
+hash = "c1801ac98a8b758716bfd4085b11984201a76693bf9f8458029cdf6d6b5e1a51"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/azalea/azalea_leaves_clump.tesf"
+hash = "e88d230b520a94b7f032bfb0f7cbc25f780b795efcb1cd37a84284b62a429866"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/azalea/great_azalea_tree.tesf"
+hash = "deb69e33dd4434595036f0565fcc5d86ccf58675cf0bc8719f60c64715ef3e1e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/azalea/great_azalea_tree_tunnel.tesf"
+hash = "e5fe6c40b1871bee9dabf1b642c3332e7f4c585f66d46804d82d33e95a573839"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/azalea/is_great_azalea_plantable.tesf"
+hash = "d18b6d2b4fe557146349878a8afc51237775c8913900fdc3efebbe8acf98d009"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/azalea/place_great_azalea_tree_underground.tesf"
+hash = "0f5bc2a86d637e44c4c63e8ad443a47511b59abc4299a9769043378194f9c564"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/birch_tree_procedural.tesf"
+hash = "75564ec004d855d400c92ea9cb9288f6e6c75ade2297251442b5da029bf3dba0"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/cherry_leaves_clump.tesf"
+hash = "2c2191cc12047b185a0b0089dcf3d2feda5023a55913e67a204f4d462b4665c9"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/dark_oak_leaves_clump.tesf"
+hash = "0e65255a903ee92f4f43bff08772acd488758033fe94dda7ffda7e4f44d9be99"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/dark_oak_tree_procedural.tesf"
+hash = "c17a2d1f78379c72be592fe3fbf99657cb40975752938cd4cb2e70117183b8eb"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/dead_large_swamp_tree_procedural.tesf"
+hash = "7bf31b4bac1bbb236c4c459e6faa3aeb40fe6b538d6a5a24378c4bbe310f2436"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/dead_tree_procedural.tesf"
+hash = "52606f4ea73818c6899223deec65423fe4a538921b220eb96e31e88671e9d34c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/eucalyptus_tree_procedural.tesf"
+hash = "62e8bfb66dc0d8f5b6c7b35ca7c5ff1a11a3e38c08934fb5b523400971d0eedb"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/giant_redwood.tesf"
+hash = "0db39f9912b30e41d344dc4a5e364bf72117e564e354f4bc435ad8b4e0215035"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/ice_spike.tesf"
+hash = "38bc5a40204ae3bf4e5738dcb273af416ab876255f83037235ce5307f2896052"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/is_dark_oak_replaceable.tesf"
+hash = "05b08eefd48fbf62c7da42a1032a2ffa533190d061569097c89e570cc17506d1"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_acacia_tree_procedural.tesf"
+hash = "9ffef1686030fbfa8264c13cec3e56435cae004f8e8e93d3170cc9ecfb6aa234"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_autumnal_birch_tree_procedural.tesf"
+hash = "762575cd7af42e6a5ccd5f64b695b1ebcde4cfff461f4c5ef818cd81d17cd764"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_birch_tree_procedural.tesf"
+hash = "9c5b74e0d260574f2760fe8069db01b75575cb970be0d6ac939b9172602e1fe0"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_dark_oak_tree_procedural.tesf"
+hash = "62b0d8d9d6a9301eb2d2b18b5fb74e6bac10f25059f4d2b54bd5ad23d504089e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_flat_acacia_tree_procedural.tesf"
+hash = "8207c9d65e7ed557d7e31394c69c26ae93b609ce829912a6fcea2c8b63d616a3"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_jungle_tree_procedural.tesf"
+hash = "8757a3e2789025e3ff4e11e224909b32c44388b6f56c069e8ba45597fc6dd71a"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_oak_tree_procedural.tesf"
+hash = "1cdaedad7b918936d30d7d04eb4bd5ba531921c26a6f6297f8f61043fcbd7e90"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_oak_tree_procedural_2.tesf"
+hash = "df0a418c0e226307138a13f0cb4da1ea627425e23c37a7e2fde67dd3e757f8db"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_swamp_tree_procedural.tesf"
+hash = "d1dcd640944c126b59fbd147a095ba359c0b6fd435023cc9efab85ccea2793ef"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_thin_autumnal_birch_tree_procedural.tesf"
+hash = "789abbb6e1e4e9be50cd3a0b83f438d9ca06f8eedc641178bd8cf8ae9c540f8e"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/large_thin_birch_tree_procedural.tesf"
+hash = "022beb038eecf0be92d5ad950ab3a7b94a606e623f72dc4de33609500e6fbef5"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/mangrove_leaves_clump.tesf"
+hash = "9ce36f3c0d9196778a3cfeb10e23cb1c87104d2d469408f0b424f56367a8b45f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/mangrove_tree_procedural.tesf"
+hash = "6686ac56b5551355ac2bc556b1ce7273847833eee62c876bd16fbf92228920ba"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/medium_jungle_tree_procedural.tesf"
+hash = "358aa1fb9d22660b813ff28a8fd79322e4622c8f37a9540ff713b06c78356e99"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/mesquite_tree_procedural.tesf"
+hash = "2d59d9982fb68cc6daa3d09797326e4335502f34aae33ef7d7f26e6c7d8e54ff"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/oak_leaves_clump.tesf"
+hash = "473b9798585e6accae5993d599e6020756a747bcfefbb2fb9a094f4d08591446"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/oak_tree_procedural.tesf"
+hash = "0037fb9b5e86372ff09231cd10b146360da38c7451cc89fb6786809121acde0f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/palm_tree_procedural.tesf"
+hash = "8fb6bde12dee689b97d6fd4e4ca6371d4456046e3266d1533647b032d37c155f"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/sakura_tree_procedural.tesf"
+hash = "7ef0289f1b7d7f8b4ad0b407ef27781f58fd5cd1085b08d9a342d7a065e3a3c4"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/spruce_tree_procedural.tesf"
+hash = "12d0e1db26a18a7404b5cbb8fe32036aa9555786e62fdc7692f15504da2f30cf"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/stubbed_large_birch_tree_procedural.tesf"
+hash = "d10af2f76fa6fd62c64d71601a2e0d60abeaf252c669d8a93b1e0adc4af212bc"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/submerged_dead_tree_procedural.tesf"
+hash = "08ad837a3d5c188c1ac355ec592938af1f08a26e0ec8e9d9fb7dd86f805cf3a5"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/trees/tree_trunk_mushroom_disk.tesf"
+hash = "718304b66d0e0ff697ed8c38c9d7152d22cd61f96042cf24f38a6ebed9e61316"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/underwater/kelp.tesf"
+hash = "4a2cfd669458c63d286f4513111cad411965b84243e57f8e2b433af2f18373f3"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/underwater/kelp_low.tesf"
+hash = "25b82cbb8653cdfe43b7dc89d010a57c2fab509fb892c1d76ed6dfda2f2afd96"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/underwater/tall_seagrass.tesf"
+hash = "b9a891388ddc9a008047f8396115e44faffb3abf5c1482d814e3f2e2865f4e79"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/vines/crossing_vines.tesf"
+hash = "f004c717bbfaae76b18fa7f2466a20182c1315fc4ffafae76fed24ba5e09d46c"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/vines/crossing_vines_segment.tesf"
+hash = "599c34988315ae404ee87b6d913b451cb88cb8bbe12f7084202153aa2f9540b3"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/vines/glow_berries.tesf"
+hash = "785d22fdb570d0d75e1d36cd424365f94eaf749063c1edc585f6e60520b7a102"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/vines/large_ceiling_vines.tesf"
+hash = "0a36977073efdd3f06ee89c9309d5638816e238040bb9faee7716b2538fb36d2"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/vines/place_trunk_vines.tesf"
+hash = "e544251a21eda44685a7be30ebb67900c6baf58c35c3a109032366e1a8ec2e42"
+
+[[files]]
+file = "config/Terra/packs/edited/structures/vegetation/vines/place_vines.tesf"
+hash = "d8c1b25ae0e2bdc5678c396d9b059671887439f0ea2721494c8dbd5932f75bad"
+
+[[files]]
+file = "config/deathfinder-server.toml"
+hash = "0f37f8a2240cd0883e3c2d25735dbc278a5f3f538c0716300319e8b9929a7295"
+
+[[files]]
+file = "config/enchant-tweaker.properties"
+hash = "d07a1be9d2be6f66453be363d52cc133a014a6dba9ce5f5b4cb1a2a814e1f781"
+
+[[files]]
+file = "config/guardvillagers.json"
+hash = "4b0d32fb3133a6ae71cb27ec4eeafb896faf946265ba01a0748ca1db46264cc4"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "79b44bbbb8a87609d870ae2274d0d78d41e50e5922e32f644b6517d7053f7f8a"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+hash = "b8c1b8e53c8e2416659c05e36e08a0b1d4c985342ef88f1b5f366dba1a288f36"
+
+[[files]]
+file = "config/villagernames.json5"
+hash = "51a07cd6dcfdcd5df0391df7c927e58af9397a0b9dcb566c4551c9b529cdc38d"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "f2a3d2af3f3ec8ed1bcdd436a76d89ec9655f20809c2274cb1be5392bb3e904e"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "7b9bcc299b6587626d256c571fc122e6147d8d760cb7056d537c88cce5d993f9"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "85fc3f866a8f0c3b1b208c830d0fb737cc13f9fe3928a4ca5f005fdadfc6d175"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "0eee1e0d3784b54657a0e845f01f389e120bc1ffc1cf997d91eb74e683fb48bd"
+metafile = true
+
+[[files]]
+file = "mods/ancient-portal-fast-travel.pw.toml"
+hash = "0159f364d42f5ab1d21293336ae88943fe28824cec4bb58102215fdc11cf10f1"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
+file = "mods/auditory-continued.pw.toml"
+hash = "d52c30c7456b1baf4862a8fea0c5eae4880197689a819f9d631a21cb21cdb912"
+metafile = true
+
+[[files]]
+file = "mods/autocrafter-early.pw.toml"
+hash = "3401da1489b50010f8b31cfa1fc8d9ac20fba41f7439e23a5ccce8455c9f2b0a"
+metafile = true
+
+[[files]]
+file = "mods/autocrafters.pw.toml"
+hash = "b42b7fb59c4c625f97139cbb5a844eb3feaeb3b68c71c65a0248b74bfd636f30"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7dc148833d9a455f8ddebab5c3d8a03c2797cff1296d8c0bcb526e6226b97cb3"
+metafile = true
+
+[[files]]
+file = "mods/beaconoverhaul.pw.toml"
+hash = "948e2afde3a7a98cca263230450e50d861fdd8984c87a464897c17a3105c6037"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "724353a7730f54b29378ba8e374c78372c8a8f072e578b5758b11fc150f470b7"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "a6ba043b2ed6dae954b278007a2e8c5a5634b6d7110bbe529753bc4cb9244c48"
+metafile = true
+
+[[files]]
+file = "mods/better-gold-recycling.pw.toml"
+hash = "f795e948655535fdc21aeae4a5d16a435f9804c7e0cefa80536b12edbf26f172"
+metafile = true
+
+[[files]]
+file = "mods/better-iron-recycling.pw.toml"
+hash = "f7c83c80460060d5ec4bab2839e24f6da621a3420669d5269f715e9657357b78"
+metafile = true
+
+[[files]]
+file = "mods/better-ladders.pw.toml"
+hash = "681745d81e0d7f079f80242d8257a9711892725b041b183004c510956b612ffe"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+metafile = true
+
+[[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "cb6d2d40f3ff485cafc010b1c3b2b3ba604dd1819420685cf08d0cb45382591a"
+metafile = true
+
+[[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "dd63a17fad10b334b54fc1fe8b433c0f2a145cab7c9fb3d6ac31006acf45471f"
+metafile = true
+
+[[files]]
+file = "mods/bundle-jumble.pw.toml"
+hash = "1a3f40437156c852d1d635bb1b1d6a0bfab7408274ea185f6b33d6729169bf5f"
+metafile = true
+
+[[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "20cc340fd7477aed53df00cd5a0f84c69c25a535cfa9e41f3900fd43e51a450b"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "127f0a7311e4ecd77c0b96660e0ff873d78d253fffb68db6101eeb414de38bb1"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "a64fd77827cfe582e2ad434fbf5fd6a70450796c191525cab9ea33d42e98a212"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "ade96e54f3cc61a9a64356f522f8527f15a20518fe9a782229af7423358fc017"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+metafile = true
+
+[[files]]
+file = "mods/clutter.pw.toml"
+hash = "edfa40c1981eed30adb7c616e4970b4b501473ddeee414d8ceeb576129ac0ebf"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
+metafile = true
+
+[[files]]
+file = "mods/colorful-trims.pw.toml"
+hash = "96d9942cfd0dfd138163db7001722c9b73eb8c73adfa3b20ce6c6140a165ebb9"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "29387b35d47dc10c63711344b29fe2970dfe23abcefe1be1a32358e2560b0971"
+metafile = true
+
+[[files]]
+file = "mods/content-creator-integration.pw.toml"
+hash = "c522dc554bb9355cbae362c758b0b327ade7348d26b68dff2b0c61070d813307"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "0f4dae68f53fa95adfcff82a0b1b1b9e530551359aa1e7a3d89d48454c9a2e7d"
+metafile = true
+
+[[files]]
+file = "mods/copper-recycling.pw.toml"
+hash = "ca66f7e029f443756d1856f6004a057234b4341352a0fd09235149750cf86c93"
+metafile = true
+
+[[files]]
+file = "mods/copper-tuff-backport-fabric.pw.toml"
+hash = "92c90c30edf48fe654e6bbf600b1533f8a391205457b6ca770fc6369d0e8f3f1"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "916c17614ec51da73e173b7249118b473e479c370a48378bc7f91eb5e5abfa9d"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
+metafile = true
+
+[[files]]
+file = "mods/creepers-keep-items.pw.toml"
+hash = "407c8a67e8a5c8045f17b451eb1a503b40459368d8debcff4936b15d28484a28"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "9eaeb03f62828ce0b3490196abc8b5c4e46c88abbd8db335c2f4d30e37e1a6be"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
+metafile = true
+
+[[files]]
+file = "mods/ctov-beautify-compat.pw.toml"
+hash = "85823e6c3eccc199df1cfd11c4855ff09f5607d0c1c50bf2e7fb531c99a35171"
+metafile = true
+
+[[files]]
+file = "mods/ctov-create-structures.pw.toml"
+hash = "d0114dcd9e7b204c1d2438b902faa1561763d8bd5b3130080895a16e106f06af"
+metafile = true
+
+[[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "ec327ba7471215f9816ab868a11a1eab1cc5361458528b06eb666677b77bb3c8"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "afcd4470f08c342d9c09af255d113736906d2d2c739f5277951eb7ebde9446b9"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "4156bc2e470b393cdd47779572fe39addc806495b7e62dcc8c8a1461d872fd7b"
+metafile = true
+
+[[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "f4164160814d605f01f149b41c5545bc79f0fec1d42d699b65adbe5133fbaa8e"
+metafile = true
+
+[[files]]
+file = "mods/darcenos-minecarts.pw.toml"
+hash = "69353397da5bdd365a0b3eae4dc73205c0a33b90cb5d8e6745e8fb2b59faba63"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "45ab18c1557c3eb23326f682f8ef100148a06cdcb25ff837095ed58f606a06e4"
+metafile = true
+
+[[files]]
+file = "mods/dawn.pw.toml"
+hash = "f4fde077bf201fbc588de6ec081d10171101f3176ec9d85fa35b86aae42c241c"
+metafile = true
+
+[[files]]
+file = "mods/dcch.pw.toml"
+hash = "8bb42e10b9186eab74b247c4c5b44d43b5f75c930fccca1b9ed1de508e18218d"
+metafile = true
+
+[[files]]
+file = "mods/death-finder.pw.toml"
+hash = "c5c8a2a65de39a4d22c094c13afd1b364af98ed037722e8045f079564f345efb"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "deeaa932ef85c1717f3c0894e99790f763ec478ff84ed3cc3d9b8d5836fcf687"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "f7a00fedee0f4475b26485b4d533ecc4df9c1224248e6ed44f3160751639e220"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "11ac285fc1559ce51b09113860fec889076ba0c2eb42178209791d0a64f5bd90"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "f53127f5487705ab6eea8cd69a663f6d1cabc3d21aacfb0026d177c9842da4e0"
+metafile = true
+
+[[files]]
+file = "mods/drinking-flask.pw.toml"
+hash = "a7bd340526999b141c365fb2a1d48765a9d2f77ea73ea5e90bfec4c77598be1d"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
+metafile = true
+
+[[files]]
+file = "mods/dye-depot.pw.toml"
+hash = "737ebb187660edb526394c55757fa977166d79defbc86e755b4be3c51d8ec24c"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "5525baa8ad75041025127697dfb53232afee87c23ed56517f10577d3eaa04ec2"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b58e81bdab1b3db9bdbf331e45f7438abdf62b63e495dccc003b3ebdf02a3abf"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "dc71dc57473ffdf06a73e50e65ddcb1d9808a40fda1c2ef4fc373012fe0d2eb0"
+metafile = true
+
+[[files]]
+file = "mods/enchant-the-rainbow.pw.toml"
+hash = "361a8e66af214e711d4c2321c927ca8b6dde1ad27d694d6a8281a86c291f5915"
+metafile = true
+
+[[files]]
+file = "mods/enchant-tweaker.pw.toml"
+hash = "627acbc1c290e5b1950ef60be450d0fe79b00c31f549cad604eb993c396cf53c"
+metafile = true
+
+[[files]]
+file = "mods/enchantable-shears-and-shields.pw.toml"
+hash = "d66411c3ef0980ff2d9bc9aaee92108e24e9f82a889410a430713c7adc0361aa"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "fab5d7420de7216e160ad3c2ce7b3c06ae3008ddb432b564579d43a7f9130075"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "a4c26b997a50b2db668863350bba9264519d537fe0ed1f489a64b4dc004082ed"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "14e141719b2166b70fc329f620bea34892696f8677127f7181ba2533519e8c56"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "42fcea3c5eae92f32d6ee70c6eea2ac20c436177923c4ed472b2bf953984b127"
+metafile = true
+
+[[files]]
+file = "mods/fowlplay.pw.toml"
+hash = "0fefe37c5e99786fd8a38999c766a87d4d83ba653ebad23bf6cd341411e0397b"
+metafile = true
+
+[[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "7a4475846fe0ce2d248ed7fd99f134070510543ea6d91b1e2f821fec73eb0788"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
+hash = "be27c9f5c78d11f671f3d5673bbd8fafb45c615ee542fe5d8a8f4f44c6bdaadd"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
+hash = "20c0294134def2e3d0bf739e7c5b6860ed374d1658017df47bd3ff1eb1b7176e"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4d29811fbd9d1660887edd7e872518e67b7fd4ea231bc22b680be37b5c000072"
+metafile = true
+
+[[files]]
+file = "mods/gilded-sherds.pw.toml"
+hash = "c9465546dd13edbff588ac84d8e2bfc08a697988aaca64630d5accdd2a9bf29b"
+metafile = true
+
+[[files]]
+file = "mods/glow-squid-spawn-control.pw.toml"
+hash = "b38748c9c9ec82bce269dec4177502aaf633d1938945bc138b3efb0fd97dbe5e"
+metafile = true
+
+[[files]]
+file = "mods/glowing-torchflower.pw.toml"
+hash = "810662db16279e9ee48eef1e75b7799e887868e0b5d5b287307bc449ced4d741"
+metafile = true
+
+[[files]]
+file = "mods/gravestones-fix.pw.toml"
+hash = "9cc5869f09f90c5f3af001135dc1dedbcdbeccd6f01a6c59cdee2b53afe2f4d5"
+metafile = true
+
+[[files]]
+file = "mods/gravestones.pw.toml"
+hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+hash = "62cb0a28a1039bd90f1d3534ed52ada9b38a76fd27f98eb44a0ff31493652563"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
+metafile = true
+
+[[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "da53b078e3d222c72a3dc7f065cca1cad9772473a6be401f4e7098c0e7da6456"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "b4bc69d1a91b685b99efbd75389e12a19999117c5c5a751996085b0be8546b5c"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "8317a5b3efefd79c435b77d786f2cfdfcadb91f3d423dd99a897d3f3e5ead799"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "a8d06087b85c115c2d67107293e761b828bc1ec4be754cf09f77419c530ed6ad"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "93ea8973beac5d1e78846141c97863fc2d4f46ccce6e870d65a71144f20c12d8"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "b1496004b596429d1b4152886fb724c1c86ef80048cbfd5ae4e847c3952f12f2"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "a51d746fdd98949eb47b83a9da95a1121fd7163601e901d986e57b1d2aca7950"
+metafile = true
+
+[[files]]
+file = "mods/ketkets-furnicraft.pw.toml"
+hash = "c07dc2608ead41becd204c2577a7e89a5dbedcd47b6927669311fff772fa7ed6"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "0ff85405f0ea165ee3c4591af0a8f5d9d0a47ddc3daa2b1206da67c217c9402f"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "44db8f518f1f3320fdd39d37835a278ce19f6762182788ef88726741be4fcc0c"
+metafile = true
+
+[[files]]
+file = "mods/leashable-villagers.pw.toml"
+hash = "573cd7056ade3ab8457eb0db816c0906c7018c36fb6092e78a837556b0dacd93"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
+metafile = true
+
+[[files]]
+file = "mods/lighty.pw.toml"
+hash = "6b986485b44e2007fc69334325f45ad1a4ad1d09d7f7814b1dbc443f171abbd1"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "8a786b5c9b67df34894f944708f722ef3ade67ea3c3aa4997144314c26f847f7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "8ad6382001078c012fd1131e2cf19016bb25a45e4b2049f85bd301f3bd04df7b"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
+metafile = true
+
+[[files]]
+file = "mods/minecart-crashes.pw.toml"
+hash = "f3068c8c3c3d22e7fcc3d2a1cecbe07f5d71add668c449ab6e6f1d516a1b3a19"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "9e0de5ca33464391d73910e6cfbe90b06f21a691061003d7ad93eb34041046ad"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "e36480c81dbcceb6656a21a20e81642be153ceb77eb06e292cd0c34a3976f584"
+metafile = true
+
+[[files]]
+file = "mods/more-barrel-variants.pw.toml"
+hash = "16b5d9da2f53650ca03a659f8d6912250cd69aedcfe1531d32c1b64cc6d98ecc"
+metafile = true
+
+[[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "9e9ebd7c8e93fd92b7ec87cf6ce2152732c10aad6c52f657cf479a5514828931"
+metafile = true
+
+[[files]]
+file = "mods/more-useful-copper.pw.toml"
+hash = "4e9e3cd7c6d9e014754799677047d377aa82ec8ce52335644483a1cbffd2905e"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "b71ebab572583fcca1a864236e233a84c637bf00c78f0d1240b742763c0375d8"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "57ea25e227f51134932bc2a95b9eada19493dbc495b14cb86251a71377e85197"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "0e4b66acb56a69961e0324eb902df9f490b8681b3d3f99ac3f96bb1b55ad1ba9"
+metafile = true
+
+[[files]]
+file = "mods/oh-my-sherd.pw.toml"
+hash = "c44007a724d9d2415d6669c0f3f873e9a00f447dc8f34cdbd710fc8793f5a660"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "6c61882bbd734f1260d930c860ecd183e089e3d878c4faccee0f73acf65c18b1"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "9ad63ddb4586e2650aca101712f9d0f5efa14e5959965cb6e6fc6ad300e8c3ee"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "0ba23afebc8a761538a860cf9b21d6f456cfecf4573249dae9c6d7b1f3d43089"
+metafile = true
+
+[[files]]
+file = "mods/ptables.pw.toml"
+hash = "ced48fb6b80f6e685ce7499f785f7a6767c25e6d2d52e77aefe22354b0dd02ac"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "6bdd9d1dc74b38676c4fc6829246bb613a4ac3c8e4d4a3acae685bd3153a3ff4"
+metafile = true
+
+[[files]]
+file = "mods/quick-right-click.pw.toml"
+hash = "5426f9e18c330d2452bdf777a5194a4367548b122c115b7ed0c00cf3ffeed8ac"
+metafile = true
+
+[[files]]
+file = "mods/rainbow-lamp.pw.toml"
+hash = "60894071e0507205e491add7f3d0251b425a127be1bb1875723d99bfa52e22cd"
+metafile = true
+
+[[files]]
+file = "mods/rainglow.pw.toml"
+hash = "25151a05fa531a87c11aa2ecea7a9d8e07b090e65a784725395ff32e23ffdae9"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "dc62cebeadfee1dd6bfbebbc2b73b99eda7823ac56f29e58580fbfe65b2691f0"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "5f2db1aa1879d5aba0fe845cd94a775366052299acffde2c45c6e88790ab6406"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
+metafile = true
+
+[[files]]
+file = "mods/sandstone-recycling.pw.toml"
+hash = "de3dadd774461cc5c4b28eccd6e765b2c48d264e76a8f45956fe2d0c823a1f4b"
+metafile = true
+
+[[files]]
+file = "mods/shulker-box-slot.pw.toml"
+hash = "44dcd27981c01734e062a462e28c4e2aa02380da6d00b2ffb72b5718b725ea9b"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "03f916cef54481cb4bbe9c7f4bbe0f6218a06f4d05c0aeaed8bc48b86fb6728f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "e53888490a33ad3127b09dd98ce001e579cb6c205a99a1e6e0424ab9f5b862c2"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "58d7767ed9ce171b4a3afe10e5d945074bdf65458b09e7c8f98a229d28dd9439"
+metafile = true
+
+[[files]]
+file = "mods/split-shulker-boxes.pw.toml"
+hash = "2b1e872f151b64b2b0eef5ecb2bf81579cd87b2f923d19a0961c71cd4b948dad"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "524dd7f62c4168f80fe6c5b890492962a05c8b8b751ae4cc16934d21326ce136"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
+metafile = true
+
+[[files]]
+file = "mods/terra.pw.toml"
+hash = "86af37c36e55d04e7ab571445fa73c5a5f5e169e00c7d5edc3e101c118a15816"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
+file = "mods/the-bible.pw.toml"
+hash = "ce9c0b88520b53f9e424a14c5be19ccf6d180c83f8af25239366bcc713f8c421"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "1bddd2c7698c383126833f6ce562321349a5a9d5ba4e82342c94471e5f7b0694"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "736c973b73d145aac2728acf181a18bd39a4b0126cfead47345d22a72c0898ce"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.pw.toml"
+hash = "b1a61e8c58ae66ee67efb1ecb6f4c48332346f82dbd91a60abf655461c993fa0"
+metafile = true
+
+[[files]]
+file = "mods/villagernames.pw.toml"
+hash = "be687feddddb097c5d9a041cc39becf930ab45b21844e99a16ad1b524848b8f3"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "3d9269ee3abd9c59ea81890ce33b59c9caa903cab2e90854f1e414223956a81e"
+metafile = true
+
+[[files]]
+file = "mods/waypoint-command-mod.pw.toml"
+hash = "b71ac963c015ed13f6b87c4e5144edde1f73a5c4cd1ad68204a816e755d05016"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "958c0f10c3482bcbc870e82eb7bf75e0dfa0565fd33db12dea1f59e9a330e4a0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "40af5de7db5a767b935c406184bc298d6e9483cf255c5152dc2f795dd509ce06"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nofog.pw.toml"
+hash = "d052decdfe4142d095e3935f7d421826ed5c4d195f4fef6ae95e6eff856fc821"
+metafile = true

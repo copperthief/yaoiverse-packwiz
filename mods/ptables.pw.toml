@@ -1,0 +1,13 @@
+name = "Portable Tables"
+filename = "portabletables-fabric-1.20.1-2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n7CI2ifG/versions/z7uADV0O/portabletables-fabric-1.20.1-2.4.jar"
+hash-format = "sha512"
+hash = "46ed6e647d464b29999beefa073f2726a1053be954747a382a65d734d18361e2ffadbc940f62893ff66396fc14120647688b610ea62d1157104d7818fde21133"
+
+[update]
+[update.modrinth]
+mod-id = "n7CI2ifG"
+version = "z7uADV0O"

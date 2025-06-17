@@ -1,0 +1,13 @@
+name = "Glow Squid Spawn Control"
+filename = "glowsquidspawncontrol-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/O90DJwiP/versions/e7HOMCFQ/glowsquidspawncontrol-1.0.0.jar"
+hash-format = "sha512"
+hash = "1bffd27ee20ce4fb7156322f7611bf8310dc7645bf3954e0ed4d8708639be6d815d94669f8dc68a7a1497415e38148f9798be1f663e0eca3e60a93d725c7e3ba"
+
+[update]
+[update.modrinth]
+mod-id = "O90DJwiP"
+version = "e7HOMCFQ"

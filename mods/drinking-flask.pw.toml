@@ -1,0 +1,13 @@
+name = "Drinking Flask"
+filename = "drinkingflask-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/THjyyHSr/versions/9e0fxjiR/drinkingflask-2.0.1.jar"
+hash-format = "sha512"
+hash = "cc3c43a9e862571c6a16975ee077cd6d428b224e1b866c6a0d42b6f006a3d106649c06cc2f4b504ca5e8847652f6b636e67b0823304648f68c46706d972272d7"
+
+[update]
+[update.modrinth]
+mod-id = "THjyyHSr"
+version = "9e0fxjiR"

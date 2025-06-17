@@ -1,0 +1,13 @@
+name = "Sandstone Recycling"
+filename = "sandstone-recycling-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vHOxFgL1/versions/Y8Ifh6ox/sandstone-recycling-1.3.jar"
+hash-format = "sha512"
+hash = "df05448f12c5940d3236f7718e0c5942d3ad8d987fca7e79bedbb1f37e07d52d05cea5deb196ea8e72bd91d5806f479be86dfd4b3fe438b0431abb19d4aa2d42"
+
+[update]
+[update.modrinth]
+mod-id = "vHOxFgL1"
+version = "Y8Ifh6ox"

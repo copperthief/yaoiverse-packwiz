@@ -1,0 +1,13 @@
+name = "Better Gold Recycling"
+filename = "better-gold-recycling-2.4-1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IZygUPY/versions/65evnt9S/better-gold-recycling-2.4-1.20.x.jar"
+hash-format = "sha512"
+hash = "c02171364336b107e0059cbf766e1abb1e9f51d17e5b194fe2977452d855f002b001604608341b4282951745eae92f26baac5411e0a533a9794f55ee78d7fb8b"
+
+[update]
+[update.modrinth]
+mod-id = "1IZygUPY"
+version = "65evnt9S"

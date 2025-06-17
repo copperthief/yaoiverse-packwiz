@@ -1,0 +1,13 @@
+name = "Waypoint command mod"
+filename = "waypoint-mod-1.0.0-full.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1xJZA7Dw/versions/oDf2itch/waypoint-mod-1.0.0-full.jar"
+hash-format = "sha512"
+hash = "3c41eb23926bbed7b16e8e8027fd863861b27b698c39de90ccb1fee27ec8cb2307525434d81f7d519be082d891c88993e83eb6f82c775fc31b42488099acd713"
+
+[update]
+[update.modrinth]
+mod-id = "1xJZA7Dw"
+version = "oDf2itch"

@@ -1,0 +1,13 @@
+name = "Split Shulker Boxes"
+filename = "Split Shulker Boxes-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EMjryBxF/versions/1wnxveH8/Split%20Shulker%20Boxes-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "1e34f06ce3648cba70afcb1367bfc5ad98d56f945875e836fef83dea740ffab46bc06b3aad1f2965c6233fcc9b47880c61923f5b647e8135ba3647a786509b2b"
+
+[update]
+[update.modrinth]
+mod-id = "EMjryBxF"
+version = "1wnxveH8"

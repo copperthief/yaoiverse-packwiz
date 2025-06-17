@@ -1,0 +1,13 @@
+name = "Gilded Sherds"
+filename = "GildedSherds-Fabric-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hoN558ya/versions/NRSi3EPB/GildedSherds-Fabric-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "3d60adce4f9b6e79a30746d59ab6a5983a14fd58ee2cf274fa7293daaa22d66debce8c0a81266a3c2696f06eaab0f688f20d20acca6370b2740ac81f5420dfe2"
+
+[update]
+[update.modrinth]
+mod-id = "hoN558ya"
+version = "NRSi3EPB"

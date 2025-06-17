@@ -1,0 +1,13 @@
+name = "Better Iron Recycling"
+filename = "better-iron-recycling-3.5-1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZzFVPwda/versions/8wp5MrB9/better-iron-recycling-3.5-1.20.x.jar"
+hash-format = "sha512"
+hash = "94c22c1a0f65465fc42ade189ef457f4a78604f84a6f370643a37c983f2329e915c015fe75a136bf8827c640bede6082ea3ef54dc92ad4c7c8c303503900845f"
+
+[update]
+[update.modrinth]
+mod-id = "ZzFVPwda"
+version = "8wp5MrB9"

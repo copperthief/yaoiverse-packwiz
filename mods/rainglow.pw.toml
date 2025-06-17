@@ -1,0 +1,13 @@
+name = "rainglow"
+filename = "rainglow-1.1.2+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bk6pUD7R/versions/b40FwyzP/rainglow-1.1.2%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "707c3bb5595657a83838fe95bc63bffce8b367cc21cf0f42f5547d5e44357486f959f55042b2e3d54313c2a700fc72644f5eb2fa1792e754de1897c020bf7763"
+
+[update]
+[update.modrinth]
+mod-id = "Bk6pUD7R"
+version = "b40FwyzP"

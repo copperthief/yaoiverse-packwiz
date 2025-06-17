@@ -1,0 +1,13 @@
+name = "yaoiverse-pack"
+author = "nutstompr"
+version = "1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4b306f1dbb1eea8a3cd8ed2da8737de77e2b5ff2ddd47ee962e11be6d0be062"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

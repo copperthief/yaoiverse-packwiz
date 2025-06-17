@@ -1,0 +1,13 @@
+name = "Minecart Crashes"
+filename = "MinecartCrashes-0.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uAhZMSPw/versions/SKxXjOwD/MinecartCrashes-0.2.0.jar"
+hash-format = "sha512"
+hash = "57fc807b7ad28caa898037ba5fa575c210f4061a3cf5a80a6cb26c9687f8e34d8446faf2595c23df12739544b3dd2c2fdd4b1a4686a8adc78a8e03e1d1144fbd"
+
+[update]
+[update.modrinth]
+mod-id = "uAhZMSPw"
+version = "SKxXjOwD"

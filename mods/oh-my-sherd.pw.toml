@@ -1,0 +1,13 @@
+name = "Oh My Sherd"
+filename = "OhMySherd-Fabric-1.20.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NazssWmx/versions/y9py55Cq/OhMySherd-Fabric-1.20.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "0d173227e388437c172d9b7e8e33442409c5965c8fafc8408e8f2c9e06ce156683508976b0b7742dc023fb6296238a2ca3542cf5c13efd74708627522c95f27f"
+
+[update]
+[update.modrinth]
+mod-id = "NazssWmx"
+version = "y9py55Cq"
