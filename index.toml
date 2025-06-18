@@ -3688,7 +3688,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "58d7767ed9ce171b4a3afe10e5d945074bdf65458b09e7c8f98a229d28dd9439"
+hash = "4e4e3f0d6faaf0fa58ba47d2db5c6c22f2282587d8bc096748d55b0a01c6f9fa"
 metafile = true
 
 [[files]]
@@ -3752,8 +3752,8 @@ hash = "b1a61e8c58ae66ee67efb1ecb6f4c48332346f82dbd91a60abf655461c993fa0"
 metafile = true
 
 [[files]]
-file = "mods/villagernames.pw.toml"
-hash = "be687feddddb097c5d9a041cc39becf930ab45b21844e99a16ad1b524848b8f3"
+file = "mods/villager-names-serilum.pw.toml"
+hash = "f3b62c8bd55a5751bb5d885598eadefb6ac6ee629384f41ef08692f55bc23142"
 metafile = true
 
 [[files]]
