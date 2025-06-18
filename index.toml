@@ -2937,11 +2937,6 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
-file = "mods/bow-infinity-fix.pw.toml"
-hash = "cb6d2d40f3ff485cafc010b1c3b2b3ba604dd1819420685cf08d0cb45382591a"
-metafile = true
-
-[[files]]
 file = "mods/brainier-bees.pw.toml"
 hash = "dd63a17fad10b334b54fc1fe8b433c0f2a145cab7c9fb3d6ac31006acf45471f"
 metafile = true
