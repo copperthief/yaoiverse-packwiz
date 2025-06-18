@@ -2774,7 +2774,7 @@ hash = "d8c1b25ae0e2bdc5678c396d9b059671887439f0ea2721494c8dbd5932f75bad"
 
 [[files]]
 file = "config/deathfinder-server.toml"
-hash = "0f37f8a2240cd0883e3c2d25735dbc278a5f3f538c0716300319e8b9929a7295"
+hash = "ce314e0260a2e276b4e07f0886bb8d297bcb33484c38ae72235bba367423cda6"
 
 [[files]]
 file = "config/enchant-tweaker.properties"

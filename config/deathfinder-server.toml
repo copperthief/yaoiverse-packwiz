@@ -12,7 +12,7 @@
 	#Show death message for players.
 	player_deaths = true
 	#Show death message for named entities.
-	named_entity_deaths = true
+	named_entity_deaths = false
 	#Show death message for all entities.
 	all_deaths = false
 [death_message_components]
